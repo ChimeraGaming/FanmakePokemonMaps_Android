@@ -12,13 +12,15 @@ It was made with dual-screen handhelds such as the AYN Thor in mind, but it also
 
 Current release: **2.4** (build 26)
 
-## Supported games
+## Supported Games
 
-- Pokémon Infinite Fusion
-- Pokémon Infinite Fusion 2 :Hoenn
-- Pokémon Rejuvenation
-- Pokémon Rejuvenation Pt.2 - Where Love Lies
-- Pokémon Z
+| Game | Verified |
+|---|:---:|
+| Pokémon Infinite Fusion | |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ |
+| Pokémon Rejuvenation | |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | |
+| Pokémon Z | ✓ |
 
 ## Install
 

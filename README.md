@@ -1,3 +1,6 @@
+⚠ If you receive `App not installed as package conflicts with an existing package` error when updating. Perform a 1-Time reinstall.
+> Uninstall old versions (v2.3 or below) and install newer version (v2.4+)
+
 # Fanmake Pokémon Maps
 
 [![Release v2.4](https://img.shields.io/badge/release-v2.4-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
@@ -56,7 +59,6 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 - Fixed the live map sometimes returning to **Waiting for Live Map** while playing.
 - Fixed other game maps closing as soon as they were opened on some Android handhelds.
 - Updated the Download page, game logos, and app icon.
-- Fixed `App not installed as package conflicts with an existing package` error when upgrading or downgrading app.
 
 ## Updates
 

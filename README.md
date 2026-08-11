@@ -3,7 +3,7 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v2.5.2](https://img.shields.io/badge/release-v2.5.2-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v3](https://img.shields.io/badge/release-v3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
@@ -14,13 +14,15 @@ Current release: **2.4** (build 26)
 
 ## Supported Games
 
-| Game | Verified |
-|---|:---:|
-| Pokémon Infinite Fusion | |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ |
-| Pokémon Rejuvenation | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | |
-| Pokémon Z | ✓ |
+| Game | Verified | Custom Markers |
+| --- | :---: | :---: |
+| Pokemon Africanvs |  | ✓ |
+| Pokémon Añil |  | ✓ |
+| Pokémon Infinite Fusion |  |  |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ |  |
+| Pokémon Rejuvenation |  |  |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies |  |  |
+| Pokémon Z | ✓ | ✓ |
 
 ## Install
 

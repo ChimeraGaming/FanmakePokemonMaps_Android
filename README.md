@@ -3,7 +3,7 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v2.4](https://img.shields.io/badge/release-v2.4-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v2.5.2](https://img.shields.io/badge/release-v2.5.2-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.

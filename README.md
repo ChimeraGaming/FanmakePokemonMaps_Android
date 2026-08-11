@@ -1,18 +1,17 @@
-⚠ If you receive `App not installed as package conflicts with an existing package` error when updating. Perform a 1-Time reinstall.
-> Uninstall old versions (v2.3 or below) and install newer version (v2.4+)
+> ⚠️ If you receive `App not installed as package conflicts with an existing package` while updating, perform a one-time reinstall. Uninstall versions v2.3 or below, then install v2.4 or newer.
 
 # Fanmake Pokémon Maps
 
-[![Release v3](https://img.shields.io/badge/release-v3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v3.0](https://img.shields.io/badge/release-v3.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **2.4** (build 26)
+Current release: **3.0** (build 31)
 
-## Supported Games
+## Supported games
 
 | Game | Verified | Custom Markers |
 | --- | :---: | :---: |
@@ -23,6 +22,8 @@ Current release: **2.4** (build 26)
 | Pokémon Rejuvenation |  |  |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies |  |  |
 | Pokémon Z | ✓ | ✓ |
+
+[Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 
 ## Install
 
@@ -39,7 +40,7 @@ The correct folder normally contains `Game.ini`, `Data`, and `Graphics`.
 - **Games** lists the games you have already set up. Select one to open its live map.
 - **Maps** lists every supported game. Select one to begin setup.
 - **Settings** controls fullscreen mode, screen wake, map size, and player marker appearance.
-- **Download** contains the available game download and guide links.
+- **Download** contains the available game download and guide links. They are also listed on the [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md) page.
 - **About** contains the app version, updates, project links, privacy details, and controls.
 
 Long-press a game, or press **Y** with a controller, to view its status. From there you can open it, repair its map setup, choose a different game folder, or remove it from **Games**. Removing a game from the list does not delete the game or its files.
@@ -54,15 +55,17 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | B | Back |
 | Touch | Select, scroll, or long-press |
 
-## What's new in 2.4
+## What's new in 3.0
 
-- Added live-map support for Infinite Fusion, Rejuvenation, and Where Love Lies.
-- Added status and repair options for each game.
-- Added update downloads with an in-app progress bar.
-- Fixed Pokémon Z incorrectly showing **Repair Required** after a successful repair.
-- Fixed the live map sometimes returning to **Waiting for Live Map** while playing.
-- Fixed other game maps closing as soon as they were opened on some Android handhelds.
-- Updated the Download page, game logos, and app icon.
+- Added adaptive layout, screen count, and screen placement dropdowns.
+- Added game-specific male and female player markers where artwork is available.
+- Added unclaimed item counts and collectible markers across supported games.
+- Added custom Poké Ball artwork for Pokemon Z, Africanvs, and Pokémon Añil.
+- Added a generic Poké Ball marker for games without custom artwork.
+- Sized item markers to remain inside their map tiles.
+- Excluded trees, rocks, resource nodes, raid nests, and NPC gifts from item markers.
+- Added map diagnostics, updated navigation icons, and the support link.
+- Improved tracker repair, map validation, and generated-map setup.
 
 ## Updates
 

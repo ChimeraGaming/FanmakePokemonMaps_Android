@@ -2,14 +2,14 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v3.0](https://img.shields.io/badge/release-v3.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v3.1](https://img.shields.io/badge/release-v3.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **3.0** (build 31)
+Current release: **3.1** (build 32)
 
 ## Supported games
 
@@ -17,10 +17,10 @@ Current release: **3.0** (build 31)
 | --- | :---: | :---: |
 | Pokemon Africanvs |  | ✓ |
 | Pokémon Añil |  | ✓ |
-| Pokémon Infinite Fusion |  |  |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ |  |
-| Pokémon Rejuvenation |  |  |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies |  |  |
+| Pokémon Infinite Fusion |  | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ |
+| Pokémon Rejuvenation |  | ✓ |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |
 | Pokémon Z | ✓ | ✓ |
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
@@ -54,18 +54,19 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | Y | Game details and repair options |
 | B | Back |
 | Touch | Select, scroll, or long-press |
+| Pinch | Zoom a live map |
+| Drag | Pan a zoomed live map |
 
-## What's new in 3.0
+## What's new in 3.1
 
-- Added adaptive layout, screen count, and screen placement dropdowns.
-- Added game-specific male and female player markers where artwork is available.
-- Added unclaimed item counts and collectible markers across supported games.
-- Added custom Poké Ball artwork for Pokemon Z, Africanvs, and Pokémon Añil.
-- Added a generic Poké Ball marker for games without custom artwork.
-- Sized item markers to remain inside their map tiles.
-- Excluded trees, rocks, resource nodes, raid nests, and NPC gifts from item markers.
-- Added map diagnostics, updated navigation icons, and the support link.
-- Improved tracker repair, map validation, and generated-map setup.
+- Added ability to zoom on map
+  > Zoom Range 1x-5x
+  >
+  > Resets on map changes (can be manually unzoomed)
+- Drag maps while zoomed to look around.
+- Added more game-specific player and item icons.
+- Added legendary encounter markers to supported maps.
+- Added an untested experimental quest marker setting.
 
 ## Updates
 

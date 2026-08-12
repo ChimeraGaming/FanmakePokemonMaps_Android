@@ -1,26 +1,30 @@
-> ⚠️ If you receive `App not installed as package conflicts with an existing package` while updating, perform a one-time reinstall. Uninstall versions v2.3 or below, then install v2.4 or newer.
+> ⚠️ Back up your saves before installing a new map.
+>
+> If you receive `App not installed as package conflicts with an existing package` while updating, perform a one-time reinstall. Uninstall versions v2.3 or below, then install v2.4 or newer.
 
 # Fanmake Pokémon Maps
 
-[![Release v3.1](https://img.shields.io/badge/release-v3.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v3.5.1](https://img.shields.io/badge/release-v3.5.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **3.1** (build 32)
+Current release: **3.5.1** (build 38)
 
 ## Supported games
 
 | Game | Verified | Custom Markers |
 | --- | :---: | :---: |
-| Pokemon Africanvs |  | ✓ |
-| Pokémon Añil |  | ✓ |
+| Pokemon Africanvs | ✓ | ✓ |
+| Pokémon Añil | ✓ | ✓ |
 | Pokémon Infinite Fusion |  | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ |
+| Pokémon Nova |  | ✓ |
 | Pokémon Rejuvenation |  | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |
+| Pokémon Unbreakable Ties |  | ✓ |
 | Pokémon Z | ✓ | ✓ |
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
@@ -57,16 +61,17 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
 
-## What's new in 3.1
+## What's new in 3.5.1
 
-- Added ability to zoom on map
-  > Zoom Range 1x-5x
-  >
-  > Resets on map changes (can be manually unzoomed)
-- Drag maps while zoomed to look around.
-- Added more game-specific player and item icons.
-- Added legendary encounter markers to supported maps.
-- Added an untested experimental quest marker setting.
+- Fixed Pokémon Añil Poké Ball, TM, and hidden-item markers.
+
+## What's new in 3.5
+
+- Added Pokémon Nova.
+- Added Pokémon Unbreakable Ties.
+- Fixed Pokémon Añil map installation.
+- Added separate ball and object controls for Unbreakable Ties.
+- Player and character markers keep their proper map size while zooming.
 
 ## Updates
 

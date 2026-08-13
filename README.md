@@ -19,7 +19,7 @@ Current release: **3.6** (build 39)
 | Game | Verified | Custom Markers |
 | --- | :---: | :---: |
 | Pokemon Africanvs | ✓ | ✓ |
-| Pokémon Añil | ✓ | ✓ |
+| Pokémon Añil/Indigo | ✓ | ✓ |
 | Pokémon Infinite Fusion |  | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ |
 | Pokémon Nova |  | ✓ |

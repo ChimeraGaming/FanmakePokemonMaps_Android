@@ -4,14 +4,15 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v3.5.1](https://img.shields.io/badge/release-v3.5.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v3.6](https://img.shields.io/badge/release-v3.6-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
+[![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **3.5.1** (build 38)
+Current release: **3.6** (build 39)
 
 ## Supported games
 
@@ -24,6 +25,7 @@ Current release: **3.5.1** (build 38)
 | Pokémon Nova |  | ✓ |
 | Pokémon Rejuvenation |  | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |
+| Pokémon Solar Eclipse |  | ✓ |
 | Pokémon Unbreakable Ties |  | ✓ |
 | Pokémon Z | ✓ | ✓ |
 
@@ -61,17 +63,11 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
 
-## What's new in 3.5.1
+## What's new in 3.6
 
-- Fixed Pokémon Añil Poké Ball, TM, and hidden-item markers.
-
-## What's new in 3.5
-
-- Added Pokémon Nova.
-- Added Pokémon Unbreakable Ties.
-- Fixed Pokémon Añil map installation.
-- Added separate ball and object controls for Unbreakable Ties.
-- Player and character markers keep their proper map size while zooming.
+- Added Pokémon Solar Eclipse.
+- Added automatic map and tracker setup for Solar Eclipse.
+- Added Solar Eclipse Item, TM, Male, and Female markers.
 
 ## Updates
 

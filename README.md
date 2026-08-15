@@ -4,7 +4,7 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v3.6.1](https://img.shields.io/badge/release-v3.6.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v4.1](https://img.shields.io/badge/release-v4.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
@@ -12,7 +12,7 @@ Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. I
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **3.6** (build 39)
+Current release: **4.1** (build 43)
 
 ## Supported games
 
@@ -20,6 +20,7 @@ Current release: **3.6** (build 39)
 | --- | :---: | :---: |
 | Pokemon Africanvs | ✓ | ✓ |
 | Pokémon Añil/Indigo | ✓ | ✓ |
+| Pokémon Conquer the Gauntlet |  |  |
 | Pokémon Infinite Fusion |  | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ |
 | Pokémon Nova |  | ✓ |
@@ -40,6 +41,8 @@ Current release: **3.6** (build 39)
 5. Choose the game's extracted main folder.
 
 The correct folder normally contains `Game.ini`, `Data`, and `Graphics`.
+
+Versions shown on the Download page are the versions tested with the app. Nearby game versions may also work when their maps and core file structure have not changed.
 
 ## Using the app
 
@@ -63,11 +66,19 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
 
-## What's new in 3.6
+## What's new in 4.1
 
-- Added Pokémon Solar Eclipse.
-- Added automatic map and tracker setup for Solar Eclipse.
-- Added Solar Eclipse Item, TM, Male, and Female markers.
+- Added Pokémon Conquer the Gauntlet v1.0.6.
+- Added compatible game versions to the Download page.
+- Added a larger, scrollable release changelog when an update is found.
+
+## What's new in 4.0
+
+- Reduced the app package from 325.4 MB to 214.4 MB.
+- Map files are stored in smaller packs and unpacked during each game's setup.
+- Existing valid maps are skipped. Missing or damaged maps are restored without creating duplicate files.
+- Every supported game now includes its complete map pack.
+- English Pokémon Indigo and Spanish Pokémon Añil automatically use their matching map packs.
 
 ## Updates
 

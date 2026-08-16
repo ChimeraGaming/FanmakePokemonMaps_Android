@@ -48,3 +48,11 @@
 - Build on the multi-game platform with new features and quality-of-life improvements.
 
 </details>
+
+<details>
+<summary><strong>x.0 - FINAL BUILD</strong></summary>
+
+# Open Source
+> With Easy to read/understand coding
+
+</details>

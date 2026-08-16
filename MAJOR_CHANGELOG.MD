@@ -43,7 +43,6 @@
 <details>
 <summary><strong>5.0 - Future</strong></summary>
 
-- Continue improving app size, download speed, and installation performance.
 - Expand compatibility with additional fangames.
 - Continue improving the live-map experience, UI, setup flow, and map management.
 - Build on the multi-game platform with new features and quality-of-life improvements.

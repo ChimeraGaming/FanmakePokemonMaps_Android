@@ -44,6 +44,7 @@
 <summary><strong>5.0 - Major Character Map Push</strong></summary>
 
 - Try to include all sprites on the map.
+- Update Tap Settings UI
 
 </details>
 

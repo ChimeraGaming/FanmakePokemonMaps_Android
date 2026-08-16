@@ -53,6 +53,7 @@
 <summary><strong>x.0 - FINAL BUILD</strong></summary>
 
 # Open Source
-> With Easy to read/understand coding
+> With Easy to read/understand coding for all levels of expertise.
+> Until then, let me have my project. I won't ask you to support me but if you want to, you can buy me a coffee (In about page of the app)
 
 </details>

@@ -41,7 +41,14 @@
 </details>
 
 <details>
-<summary><strong>5.0 - Future</strong></summary>
+<summary><strong>5.0 - Major Character Map Push</strong></summary>
+
+- Try to include all sprites on the map.
+
+</details>
+
+<details>
+<summary><strong>6.0 - Future</strong></summary>
 
 - Expand compatibility with additional fangames.
 - Continue improving the live-map experience, UI, setup flow, and map management.

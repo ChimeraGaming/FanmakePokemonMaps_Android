@@ -4,31 +4,33 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v4.2](https://img.shields.io/badge/release-v4.2-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
-![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-8957e5?style=for-the-badge&logo=android)
+[![Release v4.4.1](https://img.shields.io/badge/release-v4.4.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **4.1** (build 43)
+Current release: **4.4.1** (build 49)
 
 ## Supported games
 
-| Game | Verified | Custom Markers |
-| --- | :---: | :---: |
-| Pokemon Africanvs | ✓ | ✓ |
-| Pokémon Añil/Indigo | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet |  |  |
-| Pokémon Infinite Fusion |  | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ |
-| Pokémon Nova |  | ✓ |
-| Pokémon Rejuvenation |  | ✓ |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |
-| Pokémon Solar Eclipse |  | ✓ |
-| Pokémon Unbreakable Ties |  | ✓ |
-| Pokémon Z | ✓ | ✓ |
+| Game | Verified | Custom Markers | All Sprites | Quests |
+| --- | :---: | :---: | :---: | :---: |
+| Pokemon Africanvs | ✓ | ✓ |  |  |
+| Pokémon Añil/Indigo | ✓ | ✓ |  |  |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ |  |  |
+| Pokémon Decay |  | ✓ |  |  |
+| Pokémon Infinite Fusion |  | ✓ |  |  |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ |  |  |
+| Pokémon Insurgence |  | ✓ |  |  |
+| Pokémon Nova |  | ✓ |  |  |
+| Pokémon Rejuvenation |  | ✓ |  |  |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |  |  |
+| Pokémon Solar Eclipse |  | ✓ |  |  |
+| Pokémon Unbreakable Ties |  | ✓ |  |  |
+| Pokémon Z | ✓ | ✓ |  | ✓ |
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 
@@ -65,6 +67,41 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | Touch | Select, scroll, or long-press |
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
+
+## What's new in 4.4.1
+
+- Added 16-bit and HD character-selection screens with a separate gender setting for player markers.
+- Fixed Markdown formatting on the in-app update page.
+
+## What's new in 4.4
+
+- Added Pokémon Decay and Pokémon Insurgence.
+- Added player and collectible markers for Decay, Insurgence, and Conquer the Gauntlet.
+- Added a Male or Female default-marker choice that can be changed globally or per game.
+- Per-game item and quest controls now override Universal Settings and remember their last choice.
+- Fixed Pokémon Z quest information not appearing.
+- Added search and typo suggestions to Games, Maps, and Download.
+- Menu tabs now reuse their finished pages for faster switching.
+
+## What's new in 4.3
+
+- All supported games now download their matching versioned map pack from GitHub during setup.
+- Downloads and map installation use up to eight workers. A 507-map setup dropped from about nine minutes to about 20 seconds on a supported device.
+- Complete existing map sets skip the download. Repair intentionally downloads and replaces the maps.
+- Removed all bundled map packs, reducing the APK from 325.4 MB to 9.9 MB.
+
+## What's new in 4.2.2
+
+- Item markers keep their proper tile size while zooming.
+- The update changelog now uses the complete Release Changelog artwork.
+- Added an optional Pokémon Z GitHub map-install test.
+- Fresh map setup now uses up to eight simultaneous map writes, while complete existing map sets are skipped immediately.
+
+## What's new in 4.2
+
+- Added a fast local map-count check before opening compressed map packs.
+- Setup skips map extraction and image scanning when every expected map is already installed.
+- Manual Repair still replaces the packaged maps when a full repair is requested.
 
 ## What's new in 4.1
 

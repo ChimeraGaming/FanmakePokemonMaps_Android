@@ -30,7 +30,7 @@ Current release: **4.4.1** (build 49)
 | Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |  |  |
 | Pokémon Solar Eclipse | x | ✓ |  |  |
 | Pokémon Unbreakable Ties |  | ✓ |  |  |
-| Pokémon Z | ✓ | ✓ |  | ✓ |
+| Pokémon Z | ✓ | ✓ | 5.0 | ✓ |
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 

@@ -28,7 +28,7 @@ Current release: **4.4.1** (build 49)
 | Pokémon Nova |  | ✓ |  |  |
 | Pokémon Rejuvenation |  | ✓ |  |  |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies |  | ✓ |  |  |
-| Pokémon Solar Eclipse | x | ✓ |  |  |
+| Pokémon Solar Eclipse | 5.0 | ✓ |  |  |
 | Pokémon Unbreakable Ties |  | ✓ |  |  |
 | Pokémon Z | ✓ | ✓ | 5.0 | ✓ |
 

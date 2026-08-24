@@ -31,9 +31,9 @@ Current release: **4.4.1** (build 49)
 | Pokémon Rejuvenation | | 5.0 | 5.0 | |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | 5.0 | 5.0 | N/A | 5.0 |
 | Pokémon Solar Eclipse | 5.0 | 5.0 | 5.0 | |
-| Pokémon Soulstones 2: Time Wardens | 5.0 | 5.0 | | |
+| Pokémon Soulstones 2: Time Wardens | 5.0 | 5.0 | 5.0 | |
 | Pokémon Unbreakable Ties | 5.0 | 5.0 | 5.0 | |
-| Pokémon Unchosen | 5.0 | 5.0 | | N/A |
+| Pokémon Unchosen | 5.0 | 5.0 | 5.0 | N/A |
 | Pokémon Z | ✓ | 5.0 | 5.0 | |
 
 

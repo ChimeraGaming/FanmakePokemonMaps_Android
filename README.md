@@ -17,24 +17,25 @@ Current release: **4.4.1** (build 49)
 ## Supported games
 
 
-| Game | Verified | All Sprites | Quests |
-| --- | :---: | :---: | :---: |
-| Pokemon Africanvs | ✓ | 5.0 | 5.0 |
-| Pokémon Añil/Indigo | ✓ | 5.0 | |
-| Pokémon Conquer the Gauntlet | ✓ | 5.0 | N/A |
-| Pokémon Decay | 5.0 | 5.0 | |
-| Pokémon Infinite Fusion | 5.0 | 5.0 | 5.0 |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | 5.0 | 5.0 |
-| Pokémon Insurgence | 5.0 | 5.0 | |
-| Pokémon Nova | 5.0 | 5.0 | 5.0 |
-| PokéMortals | 5.0 | 5.0 | N/A |
-| Pokémon Rejuvenation | | 5.0 | 5.0 |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | | 5.0 | N/A |
-| Pokémon Solar Eclipse | 5.0 | 5.0 | 5.0 |
-| Pokémon Soulstones 2: Time Wardens | 5.0 | 5.0 | |
-| Pokémon Unbreakable Ties | 5.0 | 5.0 | 5.0 |
-| Pokémon Unchosen | 5.0 | 5.0 | |
-| Pokémon Z | ✓ | 5.0 | 5.0 |
+| Game | Verified | All Sprites | Quests | Shiny Starter |
+| --- | :---: | :---: | :---: | :---: |
+| Pokemon Africanvs | ✓ | 5.0 | 5.0 | N/A |
+| Pokémon Añil/Indigo | ✓ | 5.0 | | |
+| Pokémon Conquer the Gauntlet | ✓ | 5.0 | N/A | |
+| Pokémon Decay | 5.0 | 5.0 | | |
+| Pokémon Infinite Fusion | 5.0 | 5.0 | 5.0 | |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | 5.0 | 5.0 | |
+| Pokémon Insurgence | 5.0 | 5.0 | | |
+| Pokémon Nova | 5.0 | 5.0 | 5.0 | |
+| PokéMortals | 5.0 | 5.0 | N/A | |
+| Pokémon Rejuvenation | | 5.0 | 5.0 | |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | 5.0 | 5.0 | N/A | 5.0 |
+| Pokémon Solar Eclipse | 5.0 | 5.0 | 5.0 | |
+| Pokémon Soulstones 2: Time Wardens | 5.0 | 5.0 | | |
+| Pokémon Unbreakable Ties | 5.0 | 5.0 | 5.0 | |
+| Pokémon Unchosen | 5.0 | 5.0 | | N/A |
+| Pokémon Z | ✓ | 5.0 | 5.0 | |
+
 
 ### Shiny starter choice
 

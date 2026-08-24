@@ -17,27 +17,30 @@ Current release: **4.4.1** (build 49)
 ## Supported games
 
 
-| Game | Verified | Custom Markers | All Sprites | Quests | Shiny Starter Ball |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| Pokemon Africanvs | ✓ | ✓ | 5.0 | 5.0 | |
-| Pokémon Añil/Indigo | ✓ | ✓ | 5.0 | | |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | 5.0 | N/A | |
-| Pokémon Decay | 5.0 | ✓ | 5.0 | | |
-| Pokémon Infinite Fusion | 5.0 | ✓ | 5.0 | 5.0 | |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | 5.0 | 5.0 | |
-| Pokémon Insurgence | 5.0 | ✓ | 5.0 | | |
-| Pokémon Nova | 5.0 | ✓ | 5.0 | 5.0 | |
-| PokéMortals | | | | N/A | |
-| Pokémon Rejuvenation | | ✓ | 5.0 | 5.0 | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | | ✓ | 5.0 | N/A | |
-| Pokémon Solar Eclipse | 5.0 | ✓ | 5.0 | 5.0 | |
-| Pokémon Soulstones 2: Time Wardens | | | | | |
-| Pokémon Unbreakable Ties | 5.0 | ✓ | 5.0 | 5.0 | |
-| Pokémon Unchosen | | | | | |
-| Pokémon Z | ✓ | ✓ | 5.0 | 5.0 | |
+| Game | Verified | All Sprites | Quests |
+| --- | :---: | :---: | :---: |
+| Pokemon Africanvs | ✓ | 5.0 | 5.0 |
+| Pokémon Añil/Indigo | ✓ | 5.0 | |
+| Pokémon Conquer the Gauntlet | ✓ | 5.0 | N/A |
+| Pokémon Decay | 5.0 | 5.0 | |
+| Pokémon Infinite Fusion | 5.0 | 5.0 | 5.0 |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | 5.0 | 5.0 |
+| Pokémon Insurgence | 5.0 | 5.0 | |
+| Pokémon Nova | 5.0 | 5.0 | 5.0 |
+| PokéMortals | 5.0 | 5.0 | N/A |
+| Pokémon Rejuvenation | | 5.0 | 5.0 |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | | 5.0 | N/A |
+| Pokémon Solar Eclipse | 5.0 | 5.0 | 5.0 |
+| Pokémon Soulstones 2: Time Wardens | 5.0 | 5.0 | |
+| Pokémon Unbreakable Ties | 5.0 | 5.0 | 5.0 |
+| Pokémon Unchosen | 5.0 | 5.0 | |
+| Pokémon Z | ✓ | 5.0 | 5.0 |
 
-> Shiny Starter Ball means the map can detect that the game has already generated a shiny starter before you select it. The map shows a Master Ball instead of its normal Poké Ball marker as a visual alert. It does not change the game's ball, Pokémon, shiny odds, random result, or save. A blank cell means advance detection has not been verified for that game and does not mean its starter is shiny-locked.
+### Shiny starter choice
 
+**Offer shiny starter** is enabled by default. At a supported starter choice, the game shows the regular and shiny versions side by side. Choose **Normal Odds** to leave the game's normal shiny roll unchanged, or **Make Shiny** to make that selected starter shiny before it joins the team.
+
+To turn this feature off for every game, open **Settings**, then **Map Settings**, **Starter Options**, and disable **Offer shiny starter**. To turn it off for only one game, tap that game's live map, open **Starter Options**, and disable it there. Games without a selectable starter do not show the choice.
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 

@@ -27,7 +27,7 @@ Current release: **4.4.1** (build 49)
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | 5.0 | 5.0 | |
 | Pokémon Insurgence | 5.0 | ✓ | 5.0 | | |
 | Pokémon Nova | 5.0 | ✓ | 5.0 | 5.0 | |
-| PokéMortals | | | | | |
+| PokéMortals | | | | N/A | |
 | Pokémon Rejuvenation | | ✓ | 5.0 | 5.0 | |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | | ✓ | 5.0 | N/A | |
 | Pokémon Solar Eclipse | 5.0 | ✓ | 5.0 | 5.0 | |
@@ -35,6 +35,8 @@ Current release: **4.4.1** (build 49)
 | Pokémon Unbreakable Ties | 5.0 | ✓ | 5.0 | 5.0 | |
 | Pokémon Unchosen | | | | | |
 | Pokémon Z | ✓ | ✓ | 5.0 | 5.0 | |
+
+> Shiny Starter Ball means the map can detect that the game has already generated a shiny starter before you select it. The map shows a Master Ball instead of its normal Poké Ball marker as a visual alert. It does not change the game's ball, Pokémon, shiny odds, random result, or save. A blank cell means advance detection has not been verified for that game and does not mean its starter is shiny-locked.
 
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)

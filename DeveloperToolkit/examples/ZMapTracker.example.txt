@@ -1,0 +1,26 @@
+tracker_format=1
+game_id=pokemon_example
+tracker_version=1
+map_id=7
+map_name=Example Town
+x=12
+y=8
+direction=2
+map_width=40
+map_height=30
+updated_at=1724551200
+player_real_x=12500
+player_real_y=8000
+player_pattern=1
+player_graphic=PlayerMale
+player_character_index=0
+player_moving=1
+map_items_unclaimed=2
+map_item_positions=pokeball,15,9|hidden,22,14
+map_legendary_positions=MEW,28,6,001_Mew
+map_quest_positions=7,5|18,11
+map_entities=12,npc,7500,9000,2,1,255,1,TrainerA,0|18,followers,11500,8000,4,0,255,1,025_Pikachu,0
+export_map_id=
+export_status=
+export_error=
+

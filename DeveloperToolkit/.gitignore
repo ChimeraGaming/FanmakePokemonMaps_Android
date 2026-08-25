@@ -1,0 +1,13 @@
+.gradle/
+.gradle-user/
+.android-user/
+.build-home/
+.kotlin/
+.idea/
+app/build/
+build/
+Output/
+devkit.local.properties
+GameSource/*
+!GameSource/README.md
+local.properties

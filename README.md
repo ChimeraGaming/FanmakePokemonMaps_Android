@@ -1,41 +1,37 @@
 > ⚠️ Back up your saves before installing a new map.
->
-> If you receive `App not installed as package conflicts with an existing package` while updating, perform a one-time reinstall. Uninstall versions v2.3 or below, then install v2.4 or newer.
 
 # Fanmake Pokémon Maps
 
-[![Release v4.5.1](https://img.shields.io/badge/release-v4.5.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
-![JoiPlay Compatible](https://img.shields.io/badge/JoiPlay-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Release v5.0](https://img.shields.io/badge/release-v5.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+![Lite Android](https://img.shields.io/badge/Lite%20Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
 Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **4.4.1** (build 49)
+Current release: **5.0** (build 56)
 
 ## Supported games
 
-
 | Game | Verified | All Sprites | Quests | Shiny Starter |
 | --- | :---: | :---: | :---: | :---: |
-| Pokemon Africanvs | ✓ | 5.0 | 5.0 | N/A |
-| Pokémon Añil/Indigo | ✓ | 5.0 | | |
-| Pokémon Conquer the Gauntlet | ✓ | 5.0 | N/A | |
-| Pokémon Decay | 5.0 | 5.0 | | |
-| Pokémon Infinite Fusion | 5.0 | 5.0 | 5.0 | |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | 5.0 | 5.0 | |
-| Pokémon Insurgence | 5.0 | 5.0 | | |
-| Pokémon Nova | 5.0 | 5.0 | 5.0 | |
-| PokéMortals | 5.0 | 5.0 | N/A | |
-| Pokémon Rejuvenation | | 5.0 | 5.0 | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | 5.0 | 5.0 | N/A | 5.0 |
-| Pokémon Solar Eclipse | 5.0 | 5.0 | 5.0 | |
-| Pokémon Soulstones 2: Time Wardens | 5.0 | 5.0 | 5.0 | |
-| Pokémon Unbreakable Ties | 5.0 | 5.0 | 5.0 | |
-| Pokémon Unchosen | 5.0 | 5.0 | 5.0 | N/A |
-| Pokémon Z | ✓ | 5.0 | 5.0 | |
-
+| Pokemon Africanvs | ✓ | ✓ | ✓ | N/A |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | N/A | |
+| Pokémon Decay | ✓ | ✓ | ✓ | |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | |
+| Pokémon Nova | ✓ | ✓ | ✓ | |
+| PokéMortals | ✓ | ✓ | N/A | |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | N/A | ✓ |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |
+| Pokémon Z | ✓ | ✓ | ✓ | |
 
 ### Shiny starter choice
 
@@ -45,6 +41,7 @@ To turn this feature off for every game, open **Settings**, then **Map Settings*
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 
+
 ## Install
 
 1. Download the latest APK from [GitHub Releases](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases).
@@ -52,6 +49,7 @@ To turn this feature off for every game, open **Settings**, then **Map Settings*
 3. Launch **Fanmake Pokémon Maps**.
 4. Open **Maps** and select your game.
 5. Choose the game's extracted main folder.
+> Future updates will be prompted in the app when available.
 
 The correct folder normally contains `Game.ini`, `Data`, and `Graphics`.
 
@@ -59,13 +57,14 @@ Versions shown on the Download page are the versions tested with the app. Nearby
 
 ## Using the app
 
-- **Games** lists the games you have already set up. Select one to open its live map.
-- **Maps** lists every supported game. Select one to begin setup.
-- **Settings** controls fullscreen mode, screen wake, map size, and player marker appearance.
-- **Download** contains the available game download and guide links. They are also listed on the [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md) page.
+- **Maps** contains every supported game, installed-game filters, collections, search, setup, downloads, guides, repair, and live-map launch controls.
+- **Settings** separates hub behavior from universal map controls. Hub Settings includes library history, downloads, backup, restore, and recovery. Map Settings includes map display, markers, live details, and the overlay minimap.
 - **About** contains the app version, updates, project links, privacy details, and controls.
 
-Long-press a game, or press **Y** with a controller, to view its status. From there you can open it, repair its map setup, choose a different game folder, or remove it from **Games**. Removing a game from the list does not delete the game or its files.
+Select a game to view its details. From there you can install or open it, repair
+its map setup, choose a different game folder, download the game, open its guide,
+or add it to collections. Removing an association does not delete the game or
+its files.
 
 ## Controls
 
@@ -79,60 +78,32 @@ Long-press a game, or press **Y** with a controller, to view its status. From th
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
 
-## What's new in 4.4.1
+## What's new in 5.0
 
-- Added 16-bit and HD character-selection screens with a separate gender setting for player markers.
-- Fixed Markdown formatting on the in-app update page.
+- Added PokéMortals, Pokémon Soulstones 2: Time Wardens, and Pokémon Unchosen. Unchosen includes separate English and French detection.
+- Verified working live maps and all available sprite categories across all 16 supported games. (11 New Game Maps!)
+- Rebuilt the Maps page with search, filters, collections, adjustable card widths, and layouts that adapt to different screens.
+- Moved game setup, downloads, guides, repairs, folder changes, collections, and live-map launching into each game's details page.
+- Updated the installer with automatic folder detection and Repair Setup that preserves working files.
+- Split Settings into Hub Settings and Map Settings, with universal controls and per-game overrides.
+- Added separate Player and Minimap marker choices, Current Player sprites where supported, and separate marker-size controls.
+- Expanded live tracking for players, NPCs, Pokémon, followers, items, hidden items, collectibles, legendary encounters, missions, and quests.
+- Added the shiny starter choice with regular and shiny previews where supported. It can be disabled globally or per game.
+- Updated the overlay minimap with the OLED-style tap-menu design, automatic JoiPlay display selection, manual screen selection, an opacity slider, and more size presets.
+- Lock Position now keeps the overlay box in place while pinch zoom changes the map inside it.
+- Large sparse maps now open near the player, and Small marker size matches one map tile.
+- Added Normal, 30 FPS, and Instant movement settings.
+- Added centered loading animations during setup, repair, map loading, and other longer actions.
+- Added a built-in Recently Played collection with a configurable one to five game history.
+- Added resumable map-pack downloads with a setting to resume or restart interrupted downloads.
+- Added settings export and restore without copying game folders, saves, map packs, or Android folder permissions.
+- Maps pages now open immediately while missing game statuses are checked concurrently in the background, and returning from an unchanged ready map restores the existing page without another check.
+- Added update download progress, cancellation, APK validation, and the private developer update code.
+- Added About-page secrets and a new About background.
+- Added developer documentation for trackers, installers, map packs, entities, quests, and basic test apps.
+- Fixed a shared loading issue that could leave any game on Loading Map after its map image was generated.
+- Fixed crashes when Android tried to draw a map image above its bitmap size limit.
 
-## What's new in 4.4
-
-- Added Pokémon Decay and Pokémon Insurgence.
-- Added player and collectible markers for Decay, Insurgence, and Conquer the Gauntlet.
-- Added a Male or Female default-marker choice that can be changed globally or per game.
-- Per-game item and quest controls now override Universal Settings and remember their last choice.
-- Fixed Pokémon Z quest information not appearing.
-- Added search and typo suggestions to Games, Maps, and Download.
-- Menu tabs now reuse their finished pages for faster switching.
-
-## What's new in 4.3
-
-- All supported games now download their matching versioned map pack from GitHub during setup.
-- Downloads and map installation use up to eight workers. A 507-map setup dropped from about nine minutes to about 20 seconds on a supported device.
-- Complete existing map sets skip the download. Repair intentionally downloads and replaces the maps.
-- Removed all bundled map packs, reducing the APK from 325.4 MB to 9.9 MB.
-
-## What's new in 4.2.2
-
-- Item markers keep their proper tile size while zooming.
-- The update changelog now uses the complete Release Changelog artwork.
-- Added an optional Pokémon Z GitHub map-install test.
-- Fresh map setup now uses up to eight simultaneous map writes, while complete existing map sets are skipped immediately.
-
-## What's new in 4.2
-
-- Added a fast local map-count check before opening compressed map packs.
-- Setup skips map extraction and image scanning when every expected map is already installed.
-- Manual Repair still replaces the packaged maps when a full repair is requested.
-
-## What's new in 4.1
-
-- Added Pokémon Conquer the Gauntlet v1.0.6.
-- Added compatible game versions to the Download page.
-- Added a larger, scrollable release changelog when an update is found.
-
-## What's new in 4.0
-
-- Reduced the app package from 325.4 MB to 214.4 MB.
-- Map files are stored in smaller packs and unpacked during each game's setup.
-- Existing valid maps are skipped. Missing or damaged maps are restored without creating duplicate files.
-- Every supported game now includes its complete map pack.
-- English Pokémon Indigo and Spanish Pokémon Añil automatically use their matching map packs.
-
-## Updates
-
-The app checks GitHub for a newer release when it opens. It will always ask before downloading an update. You can also check manually from **About**.
-
-Android will still show its normal installation screen before an update is installed.
 
 ## Request a game map
 
@@ -145,3 +116,11 @@ Game folders and settings stay on your device. They are not uploaded. Internet a
 ## Disclaimer
 
 Fanmake Pokémon Maps is an unofficial fan-made companion. It is not affiliated with or endorsed by Nintendo, Game Freak, Creatures Inc., The Pokémon Company, or the developers of the supported fan games. Pokémon and related trademarks belong to their respective owners.
+
+## Project cost and source
+
+I considered a one-time purchase of $1 to $5 for version 5.0, which would include all future releases and updates. I decided to keep Fanmake Pokémon Maps free.
+
+When the project is finished, I will release the complete source. I have started documenting the map integration system and will update the public source during development when it is ready.
+
+If you appreciate the work, please [give the project a star](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android) and consider [buying me a coffee](https://buymeacoffee.com/chimeragaming).

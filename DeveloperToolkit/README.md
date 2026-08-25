@@ -68,7 +68,7 @@ The detected game must already contain a working `ZMapTracker.txt` and a map fol
 - Keep game failures separate from map integration failures.
 - Do not distribute game files, paid assets, or other content without permission.
 
-## Source references
+## Implementation references
 
 The production implementation is in these project files:
 

@@ -41,10 +41,11 @@
 </details>
 
 <details>
-<summary><strong>5.0 - Major Character Map Push</strong></summary>
+<summary><strong>5.0 - UI OVERHAUL, Hub, Maps & Tracking</strong></summary>
 
-- Try to include all sprites on the map.
-- Update Tap Settings UI
+- Added three games and updated all supported maps with all available sprites and verified all maps (11 new maps in total working).
+- Reworked the Hub, tap menu, settings, installer, downloads, and minimap overlay.
+- Added quest tracking updates, shiny starter choices, faster status checks, and map loading fixes.
 
 </details>
 
@@ -61,7 +62,9 @@
 <summary><strong>x.0 - FINAL BUILD</strong></summary>
 
 # Open Source
-> With Easy to read/understand coding for all levels of expertise.
-> Until then, let me have my project. I won't ask you to support me but if you want to, you can buy me a coffee (In about page of the app)
+
+> With easy-to-read and easy-to-understand coding for all levels of expertise.
+>
+> Until then, let me have my project. I won't ask you to support me, but if you want to, you can buy me a coffee from the About page of the app.
 
 </details>

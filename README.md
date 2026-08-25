@@ -31,9 +31,9 @@ Current release: **5.0** (build 56)
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |
-| Pokémon Z | ✓ | ✓ | ✓ | |
+| Pokémon Z | ✓ | ✓ | ✓ | ✓ |
 
-### Shiny starter choice
+### Shiny Starter/Trades choice
 
 **Offer shiny starter** is enabled by default. At a supported starter choice, the game shows the regular and shiny versions side by side. Choose **Normal Odds** to leave the game's normal shiny roll unchanged, or **Make Shiny** to make that selected starter shiny before it joins the team.
 

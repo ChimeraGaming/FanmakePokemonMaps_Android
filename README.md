@@ -2,45 +2,46 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v5.0](https://img.shields.io/badge/release-v5.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v5.2](https://img.shields.io/badge/release-v5.2-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![Lite Android](https://img.shields.io/badge/Lite%20Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
-Fanmake Pokémon Maps is an Android live-map companion for Pokémon fan games. It follows your position and switches maps as you move between areas.
+Fanmake Pokémon Maps is an Android live-map and battle companion for Pokémon fan games. It follows your position, switches maps as you move between areas, and can display the opposing Pokémon's Pokédex information during battles.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **5.0** (build 56)
+Current release: **5.2** (build 58)
 
 ## Supported games
 
-| Game | Verified | All Sprites | Quests | Shiny Starter |
-| --- | :---: | :---: | :---: | :---: |
-| Pokemon Africanvs | ✓ | ✓ | ✓ | N/A |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | N/A | |
-| Pokémon Decay | ✓ | ✓ | ✓ | |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | |
-| Pokémon Insurgence | ✓ | ✓ | ✓ | |
-| Pokémon Nova | ✓ | ✓ | ✓ | |
-| PokéMortals | ✓ | ✓ | N/A | |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | N/A | ✓ |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |
-| Pokémon Z | ✓ | ✓ | ✓ | ✓ |
+| Game | Verified | All Sprites | BattleDex | Quests | Shiny Starter |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| Pokemon Africanvs | ✓ | ✓ | ✓ | ✓ | N/A |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | |
+| PokéMortals | ✓ | ✓ | ✓ | N/A | |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | ✓ | N/A |
+| Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-### Shiny Starter/Trades choice
+### BattleDex
 
-**Offer shiny starter** is enabled by default. At a supported starter choice, the game shows the regular and shiny versions side by side. Choose **Normal Odds** to leave the game's normal shiny roll unchanged, or **Make Shiny** to make that selected starter shiny before it joins the team.
+BattleDex replaces the live map during supported battles with the opposing Pokémon's Pokédex entry, sprite, types, weaknesses, measurements, and caught status. It follows opponent changes, supports switching between multiple active enemies, and returns to the map when battle ends. It is enabled by default and can be changed per game under **Live Map Details** in the map's tap menu. See the [BattleDex guide](DeveloperToolkit/14_BATTLEDEX.md) for integration details.
 
-To turn this feature off for every game, open **Settings**, then **Map Settings**, **Starter Options**, and disable **Offer shiny starter**. To turn it off for only one game, tap that game's live map, open **Starter Options**, and disable it there. Games without a selectable starter do not show the choice.
+### Shiny starter choice
+
+**Offer shiny starter** shows regular and shiny choices at supported starter selections and trades. Choose **Normal Odds** to keep the game's normal shiny roll or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be disabled universally under **Map Settings**, **Starter Options**, or per game from the map's tap menu.
 
 [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
-
 
 ## Install
 
@@ -49,6 +50,7 @@ To turn this feature off for every game, open **Settings**, then **Map Settings*
 3. Launch **Fanmake Pokémon Maps**.
 4. Open **Maps** and select your game.
 5. Choose the game's extracted main folder.
+
 > Future updates will be prompted in the app when available.
 
 The correct folder normally contains `Game.ini`, `Data`, and `Graphics`.
@@ -77,6 +79,21 @@ its files.
 | Touch | Select, scroll, or long-press |
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
+
+## What's new in 5.2
+
+- Added BattleDex to all supported games.
+- Added the BattleDex integration guide to the Developer Toolkit.
+
+## What's new in 5.1
+
+- New Accessibility Settings.
+> Let me know if you have issues or would like a new accessibility feature.
+- Fixed large doors on maps.
+- Added map scale controls.
+- Added Quick Launch and saved Maps hub choices.
+- Improved map and player tracking.
+- Added the Secrets page and collectible badges.
 
 ## What's new in 5.0
 
@@ -117,10 +134,17 @@ Game folders and settings stay on your device. They are not uploaded. Internet a
 
 Fanmake Pokémon Maps is an unofficial fan-made companion. It is not affiliated with or endorsed by Nintendo, Game Freak, Creatures Inc., The Pokémon Company, or the developers of the supported fan games. Pokémon and related trademarks belong to their respective owners.
 
+## Developer toolkit
+
+The Developer Toolkit documents the tracker format, game installation methods, map packs, entities, test applications, and BattleDex integration used by the application.
+
+- [Developer Toolkit](DeveloperToolkit/README.md)
+- [BattleDex integration guide](DeveloperToolkit/14_BATTLEDEX.md)
+
 ## Project cost and source
 
-I considered a one-time purchase of $1 to $5 for version 5.0, which would include all future releases and updates. I decided to keep Fanmake Pokémon Maps free.
+I considered charging $1 to $5 for version 5.0 and requiring a one-time payment check for future releases, with future updates included after payment. I decided to keep Fanmake Pokémon Maps free.
 
-When the project is finished, I will release the complete source. I have started documenting the map integration system and will update the public source during development when it is ready.
+When the project is finished, I will release the complete source. The current [Developer Toolkit](DeveloperToolkit/README.md) documents the working integration system and will continue to be updated during development.
 
 If you appreciate the work, please [give the project a star](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android) and consider [buying me a coffee](https://buymeacoffee.com/chimeragaming).

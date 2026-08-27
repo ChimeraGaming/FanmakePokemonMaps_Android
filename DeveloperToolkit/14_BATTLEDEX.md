@@ -299,7 +299,7 @@ Return the existing sprite path for ordinary images. Restrict synchronous export
 
 Set the heading, body, and lower text color flags independently. Render a PNG preview with the native background and overlay before building the APK.
 
-## Source references
+## Implementation references
 
 The production implementation is in these project files:
 

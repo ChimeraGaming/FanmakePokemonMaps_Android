@@ -2,15 +2,15 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v5.2](https://img.shields.io/badge/release-v5.2-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
-![Lite Android](https://img.shields.io/badge/Lite%20Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Release v5.3](https://img.shields.io/badge/release-v5.3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
 Fanmake Pokémon Maps is an Android live-map and battle companion for Pokémon fan games. It follows your position, switches maps as you move between areas, and can display the opposing Pokémon's Pokédex information during battles.
 
 It was made with dual-screen handhelds such as the AYN Thor in mind, but it also works on compatible Android phones, tablets, and handhelds.
 
-Current release: **5.2** (build 58)
+Current release: **5.3** (build 58)
 
 ## Supported games
 
@@ -63,10 +63,7 @@ Versions shown on the Download page are the versions tested with the app. Nearby
 - **Settings** separates hub behavior from universal map controls. Hub Settings includes library history, downloads, backup, restore, and recovery. Map Settings includes map display, markers, live details, and the overlay minimap.
 - **About** contains the app version, updates, project links, privacy details, and controls.
 
-Select a game to view its details. From there you can install or open it, repair
-its map setup, choose a different game folder, download the game, open its guide,
-or add it to collections. Removing an association does not delete the game or
-its files.
+Select a game to view its details. From there you can install or open it, repair its map setup, choose a different game folder, download the game, open its guide, or add it to collections. Removing an association does not delete the game or its files.
 
 ## Controls
 
@@ -79,6 +76,15 @@ its files.
 | Touch | Select, scroll, or long-press |
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
+
+## What's new in 5.3
+
+- Renamed **Small** to **Pixel Perfect** and corrected player, follower, character, door, rock, tree, and other live-map object sizing across all three icon-size options.
+- Selected icon sizes now remain consistent while pinch zooming the map.
+- Added a one-time **Map Welcome** screen explaining the Tap Menu, Pixel Perfect sizing, and visibility options. It can be shown again by running **Repair Map Setup**.
+- Audited and corrected **170 setup screens and dialogs** across all 16 supported games, eliminating clipping, unintended scrolling, stretched artwork, and screen-boundary issues.
+- Made **Instant** the default movement setting.
+- Updated **Repair Map Setup** to restore the default map settings.
 
 ## What's new in 5.2
 
@@ -120,7 +126,6 @@ its files.
 - Added developer documentation for trackers, installers, map packs, entities, quests, and basic test apps.
 - Fixed a shared loading issue that could leave any game on Loading Map after its map image was generated.
 - Fixed crashes when Android tried to draw a map image above its bitmap size limit.
-
 
 ## Request a game map
 

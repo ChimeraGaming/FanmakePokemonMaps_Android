@@ -41,20 +41,44 @@
 </details>
 
 <details>
-<summary><strong>5.0 - UI OVERHAUL, Hub, Maps & Tracking</strong></summary>
+<summary><strong>5.0 - Hub, Maps & Tracking</strong></summary>
 
-- Added three games and updated all supported maps with all available sprites and verified all maps (11 new maps in total working).
+- Added three games and updated all supported maps with all available sprites.
 - Reworked the Hub, tap menu, settings, installer, downloads, and minimap overlay.
 - Added quest tracking updates, shiny starter choices, faster status checks, and map loading fixes.
 
 </details>
 
 <details>
-<summary><strong>6.0 - Future</strong></summary>
+<summary><strong>6.0 - Wild Instincts</strong></summary>
 
+- Added per-game shiny odds with Pokémon Z's real default rate and selectable boosted rates.
+- Added pre-battle regular/shiny selection and the option to skip a generated wild encounter.
+- Added a Possible Catches panel that reads the current terrain, encounter table, time, weather, fishing access, level ranges, and encounter weights.
+
+</details>
+
+<details>
+<summary><strong>7.0 - Fanmakes and ROMs</strong></summary>
+
+- Add ROMs sections to the Hub.
+- Read supported ROM systems from the app's system configuration.
+- Show an unsupported message when a system has no configured adapter.
+- Organize configured ROM games by system. Nintendo Switch is the first supported system.
+- Detect installed emulator packages and supported Android launch intents.
+- Support compatible Eden and Eden Nightly Android packages.
+- Add ROM game cards with game details, Quick Launch, settings, repair, folder selection, and removal actions.
+- Store emulator configuration separately from ROM game entries.
+
+</details>
+
+<details>
+<summary><strong> Future</strong></summary>
+
+- Open an installed fanmake through JoiPlay from its map page, including starting JoiPlay when it is closed.
+- Add Radical Mode.
 - Expand compatibility with additional fangames.
-- Continue improving the live-map experience, UI, setup flow, and map management.
-- Build on the multi-game platform with new features and quality-of-life improvements.
+- Add changes after their requirements are defined.
 
 </details>
 

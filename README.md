@@ -1,16 +1,16 @@
-> ⚠️ Back up your saves before installing a new map.
+> ⚠️ Back up your saves before installing or repairing a map.
 
-# Pixel Navigator
-https://github.com/ChimeraGaming/PixelNavigator
-- New Repo for ROMs doing the same thing as below (hopefully)
+## Pixel Navigator
 
-[![Release v0](https://img.shields.io/badge/release-v0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
+[Pixel Navigator](https://github.com/ChimeraGaming/PixelNavigator) is the separate Android project for ROM and emulator support.
+
+[![Pixel Navigator Release vDEV-TEST](https://img.shields.io/badge/release-vDEV-TEST-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-[![Star that repository](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
+[![Star Pixel Navigator](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20PIXEL%20NAVIGATOR&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
 
 # Fanmake Pokémon Maps
 
-[![Release v6.0](https://img.shields.io/badge/release-v6.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v6.2](https://img.shields.io/badge/release-v6.2-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![Lite Android](https://img.shields.io/badge/Lite%20Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
@@ -18,13 +18,13 @@ Fanmake Pokémon Maps is an Android live-map and battle companion for Pokémon f
 
 The interface supports dual-screen handhelds such as the AYN Thor and compatible Android phones, tablets, and handhelds.
 
-Current release: **6.0** (build 59)
+Current live release: **6.2** (build 61)
 
 ## Supported games
 
 | Game | Verified | All Sprites | BattleDex | Quests | Shiny Starter |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| Pokemon Africanvs | ✓ | ✓ | ✓ | ✓ | N/A |
+| Pokémon Africanvs | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | |
 | Pokémon Decay | ✓ | ✓ | ✓ | ✓ | |
@@ -43,13 +43,19 @@ Current release: **6.0** (build 59)
 
 ### BattleDex
 
-BattleDex replaces the live map during supported battles with the opposing Pokémon's Pokédex entry, sprite, types, weaknesses, measurements, and caught status. It follows opponent changes, supports switching between multiple active enemies, and returns to the map when battle ends. It is enabled by default and can be changed per game under **Live Map Details** in the map's tap menu. See the [BattleDex guide](DeveloperToolkit/14_BATTLEDEX.md) for integration details.
+BattleDex replaces the live map during supported battles with the opposing Pokémon's Pokédex entry, sprite, types, weaknesses, measurements, and caught status. It follows opponent changes, supports switching between multiple active enemies, and returns to the map when battle ends. It is enabled by default and can be changed per game under **Live Map Details** in the map's Tap Menu. See the [BattleDex guide](DeveloperToolkit/14_BATTLEDEX.md) for integration details.
+
+### Wild Instincts
+
+Wild Instincts adds supported per-game shiny odds, Force Shiny, pre-battle Run Away choices, automatic run attempts for caught Pokémon, rare encounter notices, and Possible Catches details. Pokémon Z, Pokémon Africanvs, Pokémon Soulstones 2: Time Wardens, and Pokémon Unbreakable Ties currently provide game-specific Wild Instincts features.
 
 ### Shiny starter choice
 
-**Offer shiny starter** shows regular and shiny choices at supported starter selections and trades. Choose **Normal Odds** to keep the game's normal shiny roll or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be disabled universally under **Map Settings**, **Starter Options**, or per game from the map's tap menu.
+**Shiny Starter** shows regular and shiny choices at supported starter selections and trades. Choose **No Shiny** to keep the generated Pokémon unchanged or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be changed from the map's Tap Menu where supported.
 
-[Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
+- [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
+- [Current Changelog](CHANGELOG.md)
+- [Roadmap](ROADMAP.md)
 
 ## Install
 
@@ -70,11 +76,9 @@ Versions shown on the Download page are the versions tested with the app. Nearby
 - **Maps** contains every supported game, installed-game filters, collections, search, setup, downloads, guides, repair, and live-map launch controls.
 - **Settings** separates hub behavior from universal map controls. Hub Settings includes library history, downloads, backup, restore, and recovery. Map Settings includes map display, markers, live details, and the overlay minimap.
 - **About** contains the app version, updates, project links, privacy details, and controls.
+- **Quick Launch** opens the selected map and starts its associated JoiPlay game. On supported multi-screen devices, the game opens on the display opposite the map.
 
-Select a game to view its details. From there you can install or open it, repair
-its map setup, choose a different game folder, download the game, open its guide,
-or add it to collections. Removing an association does not delete the game or
-its files.
+Select a game to view its details. From there you can install or open it, repair its map setup, choose a different game folder, download the game, open its guide, or add it to collections. Removing an association does not delete the game or its files.
 
 ## Controls
 

@@ -4,6 +4,10 @@
 https://github.com/ChimeraGaming/PixelNavigator
 - New Repo for ROMs doing the same thing as below (hopefully)
 
+[![Release v0](https://img.shields.io/badge/release-v0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
+![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Star that repository](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
+
 # Fanmake Pokémon Maps
 
 [![Release v5.3](https://img.shields.io/badge/release-v5.3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)

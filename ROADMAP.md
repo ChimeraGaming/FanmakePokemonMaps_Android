@@ -1,11 +1,11 @@
-# Major Changelog RoadMap
+# Major Changelog Roadmap
 
 <details>
 <summary><strong>1.0 - Initial Build / Proof of Concept</strong></summary>
 
 - Created the original Pokémon Z live-map companion.
-- Established the core live player tracking and automatic map-switching concept.
-- Built the foundation for the map system that later expanded into Fanmake Pokémon Maps.
+- Established live player tracking and automatic map switching.
+- Built the map system that later expanded into Fanmake Pokémon Maps.
 
 </details>
 
@@ -25,18 +25,18 @@
 - Added adaptive screen controls for single-screen, split-screen, and dual-screen devices.
 - Added pinch zoom, touch panning, and manual screen placement.
 - Expanded player, item, collectible, legendary, and quest marker support.
-- Improved map installation, diagnostics, repair tools, and game-specific controls.
+- Updated map installation, diagnostics, repair tools, and game-specific controls.
 
 </details>
 
 <details>
 <summary><strong>4.0 - App Condensing & Faster Installation</strong></summary>
 
-- Significantly reduced the main APK size by changing how map libraries are packaged and delivered.
-- Improved app installation, updates, map setup, and repair performance.
-- Added smarter checks to skip maps that are already installed and valid.
-- Added parallel downloads and simultaneous map writes for much faster map installation.
-- Removed bundled map packs as the project moved toward faster GitHub-based map delivery.
+- Reduced the main APK size by changing how map libraries are packaged and delivered.
+- Updated app installation, updates, map setup, and repair handling.
+- Added checks to skip maps that are already installed and valid.
+- Added parallel downloads and simultaneous map writes.
+- Replaced bundled map packs with GitHub-hosted map downloads.
 
 </details>
 
@@ -44,41 +44,50 @@
 <summary><strong>5.0 - Hub, Maps & Tracking</strong></summary>
 
 - Added three games and updated all supported maps with all available sprites.
-- Reworked the Hub, tap menu, settings, installer, downloads, and minimap overlay.
-- Added quest tracking updates, shiny starter choices, faster status checks, and map loading fixes.
+- Reworked the Hub, Tap Menu, settings, installer, downloads, and minimap overlay.
+- Added quest tracking updates, shiny starter choices, concurrent status checks, and map loading fixes.
 
 </details>
 
 <details>
 <summary><strong>6.0 - Wild Instincts</strong></summary>
 
-- Added per-game shiny odds with Pokémon Z's real default rate and selectable boosted rates.
-- Added pre-battle regular/shiny selection and the option to skip a generated wild encounter.
+- Added per-game shiny odds with Pokémon Z's default rate and selectable boosted rates.
+- Added pre-battle regular and shiny selection and the option to skip a generated wild encounter.
 - Added a Possible Catches panel that reads the current terrain, encounter table, time, weather, fishing access, level ranges, and encounter weights.
 
 </details>
 
-https://github.com/ChimeraGaming/PixelNavigator
+[ROM support has moved to Pixel Navigator.](https://github.com/ChimeraGaming/PixelNavigator)
 
 <details>
-<summary><strong>~7.0 - Fanmakes and ROMs~ ROMS are now being moved to dedicated app = Pixel Navigator</strong></summary>
+<summary><strong><s>7.0 - Fanmakes and ROMs</s></strong></summary>
 
-- Add ROMs sections to the Hub.
-- Read supported ROM systems from the app's system configuration.
-- Show an unsupported message when a system has no configured adapter.
-- Organize configured ROM games by system. Nintendo Switch is the first supported system.
-- Detect installed emulator packages and supported Android launch intents.
-- Support compatible Eden and Eden Nightly Android packages.
-- Add ROM game cards with game details, Quick Launch, settings, repair, folder selection, and removal actions.
-- Store emulator configuration separately from ROM game entries.
+- ROM support is being moved to the dedicated Pixel Navigator app.
+- Pixel Navigator will organize configured ROM games by system.
+- Nintendo Switch is its first supported system.
+- Emulator detection, game launching, game cards, settings, repair, folder selection, and removal will be handled there.
 
 </details>
 
 <details>
-<summary><strong> Future</strong></summary>
+<summary><strong>7.0 - Radical Update</strong></summary>
 
-- Open an installed fanmake through JoiPlay from its map page, including starting JoiPlay when it is closed.
-- Add Radical Mode.
+- Add Radical Z to Pokémon Z.
+- Define and test Radical Mode behavior in Pokémon Z before expanding it to other games.
+- Keep the standard Pokémon Z experience available when Radical Z is disabled.
+
+7.1 - Radical Update Expansion
+
+- Begin adding Radical Mode to other supported games.
+- Check each game's capabilities before adding Radical Mode controls or game changes.
+- Preserve each game's native behavior when a Radical Mode feature is not supported.
+
+</details>
+
+<details>
+<summary><strong>Future</strong></summary>
+
 - Expand compatibility with additional fangames.
 - Add changes after their requirements are defined.
 

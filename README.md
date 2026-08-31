@@ -4,7 +4,7 @@
 
 [Pixel Navigator](https://github.com/ChimeraGaming/PixelNavigator) is the separate Android project for ROM and emulator support.
 
-[![Pixel Navigator Release vDEV-TEST](https://img.shields.io/badge/release-vDEV-TEST-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
+[![Pixel Navigator Release v0](https://img.shields.io/badge/release-vDEVTEST-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star Pixel Navigator](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20PIXEL%20NAVIGATOR&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
 

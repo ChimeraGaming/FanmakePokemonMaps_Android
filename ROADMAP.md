@@ -71,6 +71,7 @@
 - Store emulator configuration separately from ROM game entries.
 
 </details>
+https://github.com/ChimeraGaming/PixelNavigator
 
 <details>
 <summary><strong> Future</strong></summary>

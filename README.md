@@ -1,5 +1,9 @@
 > ⚠️ Back up your saves before installing a new map.
 
+# Pixel Navigator
+https://github.com/ChimeraGaming/PixelNavigator
+- New Repo for ROMs doing the same thing as below (hopefully)
+
 # Fanmake Pokémon Maps
 
 [![Release v5.3](https://img.shields.io/badge/release-v5.3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)

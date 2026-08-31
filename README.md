@@ -8,8 +8,6 @@ https://github.com/ChimeraGaming/PixelNavigator
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star that repository](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
 
-> ⚠️ Back up your saves before installing a new map.
-
 # Fanmake Pokémon Maps
 
 [![Release v6.0](https://img.shields.io/badge/release-v6.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)

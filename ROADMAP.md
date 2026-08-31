@@ -58,6 +58,8 @@
 
 </details>
 
+https://github.com/ChimeraGaming/PixelNavigator
+
 <details>
 <summary><strong>~7.0 - Fanmakes and ROMs~ ROMS are now being moved to dedicated app = Pixel Navigator</strong></summary>
 
@@ -71,7 +73,6 @@
 - Store emulator configuration separately from ROM game entries.
 
 </details>
-https://github.com/ChimeraGaming/PixelNavigator
 
 <details>
 <summary><strong> Future</strong></summary>

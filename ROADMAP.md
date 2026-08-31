@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><strong>7.0 - Fanmakes and ROMs</strong></summary>
+<summary><strong>~7.0 - Fanmakes and ROMs~ ROMS are now being moved to dedicated app = Pixel Navigator</strong></summary>
 
 - Add ROMs sections to the Hub.
 - Read supported ROM systems from the app's system configuration.

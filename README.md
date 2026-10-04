@@ -31,13 +31,17 @@ Current live release: **6.2** (build 61)
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Myth | | | | | |
+| Pokémon Myth 2 | | | | | |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Ópalo | | | | | |
 | PokéMortals | ✓ | ✓ | ✓ | N/A | |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Sacred Pheonix |  |  |  |  | |
+| Pokémon Sacred Pheonix | | | | | |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Survivor Burst| | | | | |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |

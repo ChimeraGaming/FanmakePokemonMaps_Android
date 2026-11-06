@@ -37,11 +37,11 @@ Current live release: **6.2** (build 61)
 | Pokémon Ópalo | | | | | |
 | PokéMortals | ✓ | ✓ | ✓ | N/A | |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Sacred Pheonix | | | | | |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | |
+| Pokémon Sacred Phoenix | | | | | |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Survivor Burst| | | | | |
+| Pokémon Survivor Burst | | | | | |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |

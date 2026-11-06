@@ -1,0 +1,12 @@
+# Keep local files out unless they belong to the public repository content.
+/*
+
+!/.gitignore
+!/.github/
+!/DeveloperToolkit/
+!/Maps/
+!/GAME_DOWNLOADS.md
+!/LICENSE
+!/LICENSE.txt
+!/README.md
+!/ROADMAP.md

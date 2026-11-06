@@ -1,0 +1,83 @@
+FANMAKE POKÉMON MAPS PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2026 ChimeraGaming. All rights reserved.
+
+1. Ownership and Scope
+
+This License governs the original Fanmake Pokémon Maps software, source code,
+documentation, and related materials owned by ChimeraGaming (collectively,
+the "Software"). All right, title, and interest in the Software remain with
+ChimeraGaming. The Software is licensed, not sold. Except as expressly
+provided herein, no intellectual property rights are granted.
+
+2. Limited License
+
+Subject to this License, ChimeraGaming grants you a nonexclusive,
+nontransferable license to download, install, and use official, unmodified
+binary releases of Fanmake Pokémon Maps for personal, noncommercial purposes.
+You may make copies reasonably necessary for installation and personal
+backup. Sharing links to official releases is permitted.
+
+3. Restrictions and Reservation of Rights
+
+Except as expressly permitted by this License or authorized in writing by
+ChimeraGaming, you may not reproduce, modify, adapt, distribute, sublicense,
+sell, or create derivative works of the Software. These restrictions
+include redistribution of APK files, repackaging of the application, and
+incorporation of its original code into another project. All copyright and
+ownership notices shall be retained in permitted copies. All rights not
+expressly granted are reserved, subject to Section 5.
+
+4. Separately Authorized Materials
+
+Community documents and other materials expressly designated by
+ChimeraGaming as subject to separate permissions shall be governed by
+those permissions. Such permissions apply solely to the identified
+materials and do not extend to the Software or any other material.
+Publication or public availability does not, by itself, grant permission
+to reuse the Software.
+
+5. Third-Party Rights and Applicable Law
+
+This License applies only to materials owned by ChimeraGaming. Game
+artwork, extracted maps and game data, trademarks, third-party software,
+and other third-party materials remain the property of their respective
+rights holders and are subject to their own licenses and permissions.
+No ownership of, or license to, those materials is granted herein.
+
+Nothing in this License limits rights granted under applicable
+third-party licenses or GitHub's applicable terms of service, or rights
+and exceptions that cannot lawfully be excluded or restricted.
+
+6. Current Open-Source Materials and Intended Open-Source Release
+
+All currently designated open-source parts of this project are located
+under the "DeveloperToolkit/" directory. Those materials are governed by
+their applicable open-source licenses and are excluded from the proprietary
+restrictions of this License to the extent those restrictions conflict with
+their open-source licenses. This designation does not extend to the main
+application or materials outside that directory.
+
+ChimeraGaming intends to release the original Fanmake Pokémon Maps source code
+under an open-source license upon completion of development. Until
+ChimeraGaming expressly publishes the source code under a specified
+open-source license, this License remains in effect. This statement of
+intent grants no present right to access, modify, or redistribute the
+source code and establishes no release date. Any subsequent open-source
+license shall apply to the materials and versions expressly designated
+in that release.
+
+7. Disclaimer of Warranties and Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CHIMERAGAMING SHALL NOT
+BE LIABLE FOR ANY CLAIM, LOSS, OR DAMAGE ARISING OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR ITS USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+Requests for additional permissions shall be directed to ChimeraGaming
+through the official Fanmake Pokémon Maps repository:
+https://github.com/ChimeraGaming/FanmakePokemonMaps_Android

@@ -25,9 +25,9 @@ Current live release: **6.2** (build 61)
 | Game | Verified | All Sprites | BattleDex | Quests | Shiny Starter |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | ✓ | N/A |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | |
-| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | |

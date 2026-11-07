@@ -37,6 +37,14 @@ Require stable files that identify the game. Good checks include a specific `Gam
 
 If multiple languages or releases use the same integration, define variants with their own required paths and labels.
 
+Production games use the shared Auto Detect Game Folder flow. New activities based on `GeneratedMapGameActivity` inherit it automatically. Other setup activities must implement `GameFolderDetectionHost` and attach the shared button above the manual picker.
+
+Add known archive and extracted folder names from the game's download pages to `assets/generated/game_folder_detection.json`. These names help order the search. Always validate the game contents before offering a match; a folder name alone is not enough. Include language and release labels when a variant can be identified reliably.
+
+Reuse the saved RPGXP root across games. A single match must ask No or Yes. Multiple matches must offer each copy and Neither. No and Neither open the manual picker at RPGXP. Save the game association only after Yes, Select, or a completed manual selection.
+
+Check the candidate layout for the game's engine. RPG Maker XP and PSDK use `Game.ini`, `Data`, and `Graphics`; RPG Maker MV uses its executable and `www` folder, then validates `www/data/System.json` and its loader. Add candidate checks for any new engine before enabling its integration.
+
 ## 4. Prove the tracker load location
 
 Install a harmless tracker that writes a small text file. Launch the game and move several tiles. If the file does not update, the runtime is not loading that script location.
@@ -87,4 +95,6 @@ Increase the setup revision when Repair must reinstall a changed tracker or inte
 ## 10. Test the full lifecycle
 
 Test a new setup, launch, movement, map transition, app restart, game restart, Repair, and an interrupted tracker write. Confirm that save data remains untouched.
+
+Also test auto detection with a renamed folder, nested extraction, wrong game, multiple releases or languages, cancelled selection, revoked root access, and app restart. Verify No, Yes, Select, and Neither before shipping.
 

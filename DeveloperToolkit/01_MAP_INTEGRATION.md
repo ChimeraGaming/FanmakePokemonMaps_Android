@@ -43,6 +43,7 @@ Games using this method:
 - Pokémon Africanvs
 - Pokémon Añil or Indigo, for compatible compiled releases
 - PokéMortals
+- Pokémon Ópalo, for the verified bilingual compiled release
 - Pokémon Rejuvenation Pt.2 - Where Love Lies
 - Pokémon Solar Eclipse
 

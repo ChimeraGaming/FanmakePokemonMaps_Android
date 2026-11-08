@@ -26,11 +26,11 @@ Current live release: **6.2** (build 61)
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | N/A |
 | Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Myth | | | | | |
 | Pokémon Myth 2 | | | | | |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | |

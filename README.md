@@ -22,31 +22,31 @@ Current live release: **6.2** (build 61)
 
 ## Supported games
 
-| Game | Verified | All Sprites | BattleDex | Quests | Shiny Starter |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| Pokémon Africanvs | ✓ | ✓ | ✓ | ✓ | N/A |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | N/A |
-| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Fire Ash |  |  |  | N/A |  |
-| Pokémon GS Vitro |  |  |  | N/A |  |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | N/A |
-| Pokémon Myth |  |  |  | N/A |  |
-| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo |  |  |  | N/A |  |
-| PokéMortals | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Project Vanguard |  |  |  | N/A |  |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A |  |
-| Pokémon Sacred Phoenix |  |  |  | N/A |  |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Survivor Burst |  |  |  | N/A |  |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | ✓ | N/A |
-| Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Game | Verified | All Sprites | BattleDex | Shiny Starter |
+| --- | :---: | :---: | :---: | :---: |
+| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ |
+| Pokémon GS Vitro |  |  |  |  |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A |
+| Pokémon Myth |  |  |  |  |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Ópalo |  |  |  |  |
+| PokéMortals | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Project Vanguard |  |  |  |  |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ |  |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ |  |
+| Pokémon Sacred Phoenix |  |  |  |  |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ |  |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ |  |
+| Pokémon Survivor Burst |  |  |  |  |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ |  |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |
+| Pokémon Z | ✓ | ✓ | ✓ | ✓ |
 
 
 ### BattleDex
@@ -62,7 +62,7 @@ Wild Instincts adds supported per-game shiny odds, Force Shiny, pre-battle Run A
 **Shiny Starter** shows regular and shiny choices at supported starter selections and trades. Choose **No Shiny** to keep the generated Pokémon unchanged or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be changed from the map's Tap Menu where supported.
 
 - [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
-- [Current Changelog](CHANGELOG.md)
+- [Current Changelog](recovery/CHANGELOG_v6.7.md)
 - [Roadmap](ROADMAP.md)
 
 ## Install

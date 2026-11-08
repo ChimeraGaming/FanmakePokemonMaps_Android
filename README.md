@@ -33,9 +33,9 @@ Current live release: **6.2** (build 61)
 | Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Myth | | | | | |
 | Pokémon Myth 2 | | | | | |
-| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Ópalo | | | | | |
-| PokéMortals | ✓ | ✓ | ✓ | N/A | |
+| PokéMortals | ✓ | ✓ | ✓ | N/A | ✓ |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | |
 | Pokémon Sacred Phoenix | | | | | |

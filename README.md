@@ -28,14 +28,16 @@ Current live release: **6.2** (build 61)
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | N/A |
 | Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Fire Ash | | | | | |
+| Pokémon GS Vitro | | | | | |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Myth | | | | | |
-| Pokémon Myth 2 | | | | | |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Ópalo | | | | | |
 | PokéMortals | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Project Vanguard | | | | | |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | |
 | Pokémon Sacred Phoenix | | | | | |

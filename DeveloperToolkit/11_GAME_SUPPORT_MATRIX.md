@@ -18,8 +18,9 @@ Quest status meanings:
 | Pokémon Infinite Fusion 2: Hoenn | Loose script tracker | Confirmed | Confirmed | Confirmed |
 | Pokémon Insurgence | Patch Mods | Confirmed | Confirmed | Detector added |
 | Pokémon Nova | Loose Data scripts | Confirmed | Confirmed | Confirmed |
+| Pokémon Ópalo | Compiled Scripts archive patch, bilingual release | Pending device test | Pending device test | No separate system found |
 | PokéMortals | Compiled Scripts archive patch | Confirmed | Confirmed | N/A |
-| Pokémon Rejuvenation | Patch Mods | Game verification pending | Confirmed | Confirmed |
+| Pokémon Rejuvenation | Patch Mods | Confirmed | Confirmed | Confirmed |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | Compiled Scripts archive patch | Confirmed | Confirmed | N/A |
 | Pokémon Solar Eclipse | Compiled Scripts archive patch | Confirmed | Confirmed | Confirmed |
 | Pokémon Soulstones 2: Time Wardens | Root Mods | Confirmed | Confirmed | Confirmed |
@@ -27,5 +28,5 @@ Quest status meanings:
 | Pokémon Unchosen | RPG Maker MV plugin and direct index loader | Confirmed | Confirmed | Confirmed |
 | Pokémon Z | Packaged compiled archive | Confirmed | Confirmed | Confirmed |
 
-Pokémon Rejuvenation has 5.0 maps, sprites, and quest support. Its live map remains outside final verification because the game crashes in JoiPlay during testing.
+Rejuvenation 14.0 and 14.0.28 use the shared map pack. Smooth live-map movement was confirmed after the tracker update.
 

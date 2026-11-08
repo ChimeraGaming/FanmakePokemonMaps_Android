@@ -22,31 +22,31 @@ Current live release: **6.2** (build 61)
 
 ## Supported games
 
-| Game | Verified | All Sprites | BattleDex | Shiny Starter |
-| --- | :---: | :---: | :---: | :---: |
-| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A |
-| Pokémon Decay | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ |
-| Pokémon GS Vitro |  |  |  |  |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A |
-| Pokémon Myth |  |  |  |  |
-| Pokémon Nova | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ |
-| PokéMortals | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Project Vanguard |  |  |  |  |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A |
-| Pokémon Sacred Phoenix |  |  |  |  |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Survivor Burst |  |  |  |  |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ |  |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |
-| Pokémon Z | ✓ | ✓ | ✓ | ✓ |
+| Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A |  |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon GS Vitro |  |  |  |  |  |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Myth |  |  |  |  |  |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Project Vanguard |  |  |  |  |  |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Sacred Phoenix |  |  |  |  |  |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Survivor Burst |  |  |  |  |  |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |  |
+| Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 
 ### BattleDex

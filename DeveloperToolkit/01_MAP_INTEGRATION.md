@@ -13,7 +13,7 @@ The minimum working tracker reports:
 - Player direction
 - Map width and height in tiles
 
-The complete 5.0 tracker can also report smooth movement coordinates, animation frame, player graphic, NPCs, Pokémon, followers, objects, effects, items, hidden items, collectibles, legendary encounters, and quests.
+The complete 5.0 tracker can also report smooth movement coordinates, animation frame, player graphic, NPCs, Pokémon, followers, objects, effects, items, hidden items, collectibles, and legendary encounters.
 
 ## Successful integration methods
 

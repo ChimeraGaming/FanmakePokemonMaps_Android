@@ -8,7 +8,7 @@ For a first test, use [Basic Test App](07_BASIC_TEST_APP.md). It opens a selecte
 
 For the shortest build path, use [Build the Test APK](12_DEVKIT_BUILD.md). Place the integrated game under `GameSource`, then run `Build Test APK.bat`.
 
-For the complete viewer, use [Full Test App](08_FULL_TEST_APP.md). It adds background polling, document handle recovery, map indexing, animated player movement, game sprites, entities, followers, items, hidden items, quests, and map pack checks.
+For the complete viewer, use [Full Test App](08_FULL_TEST_APP.md). It adds background polling, document handle recovery, map indexing, animated player movement, game sprites, entities, followers, items, hidden items, and map pack checks.
 
 For a new game, begin with [Adding a Game](02_ADDING_A_GAME.md), then choose a tracker installation method from [Installer Methods](04_INSTALLER_METHODS.md).
 
@@ -42,7 +42,7 @@ Use Pokédex backgrounds, fonts, type graphics, and Pokémon sprites from the se
 - [Tracker File Format](03_TRACKER_FILE_FORMAT.md)
 - [Installer Methods](04_INSTALLER_METHODS.md)
 - [Map Pack Format](05_MAP_PACK_FORMAT.md)
-- [Entities, Items, and Quests](06_ENTITIES_ITEMS_AND_QUESTS.md)
+- [Entities and Items](06_ENTITIES_AND_ITEMS.md)
 - [Basic Test App](07_BASIC_TEST_APP.md)
 - [Full Test App](08_FULL_TEST_APP.md)
 - [Testing Checklist](09_TESTING_CHECKLIST.md)

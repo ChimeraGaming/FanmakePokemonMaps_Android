@@ -67,7 +67,6 @@ Add support for:
 - Effects
 - Items and hidden items
 - Legendary graphics
-- Quest markers
 
 Give each category its own visibility setting.
 

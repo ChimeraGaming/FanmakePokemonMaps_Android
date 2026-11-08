@@ -50,14 +50,6 @@ map_legendary_positions=MEW,14,9,001_Mew
 
 Each record contains species, X, Y, and graphic name.
 
-## Quest fields
-
-```text
-map_quest_positions=7,5|18,11
-```
-
-Each quest record contains X and Y.
-
 ## Entity fields
 
 ```text

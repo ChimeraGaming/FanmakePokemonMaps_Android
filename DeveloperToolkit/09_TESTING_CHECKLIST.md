@@ -32,8 +32,6 @@
 - Invisible and erased events do not appear.
 - Items do not include ordinary scenery.
 - Hidden items are placed correctly.
-- Quest markers follow the active event page.
-- Completed quest markers disappear.
 
 ## Performance
 

@@ -46,7 +46,7 @@ For RPG Maker MV, confirm the character sheet index and encrypted image key. For
 
 Use the active event page. Ignore erased and transparent events. Deduplicate spriteset characters against map events and follower collections.
 
-Tighten item and quest classification. Broad text matching can mark scenery or ordinary dialogue.
+Tighten item classification. Broad text matching can mark scenery or ordinary dialogue.
 
 ## Map image is wrong
 

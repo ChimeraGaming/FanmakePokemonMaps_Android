@@ -49,7 +49,7 @@ Check the candidate layout for the game's engine. RPG Maker XP and PSDK use `Gam
 
 Install a harmless tracker that writes a small text file. Launch the game and move several tiles. If the file does not update, the runtime is not loading that script location.
 
-Do this before building map export, entity tracking, or quests.
+Do this before building map export or entity tracking.
 
 ## 5. Write the base tracker
 
@@ -67,13 +67,9 @@ Package the images as described in [Map Pack Format](05_MAP_PACK_FORMAT.md).
 
 Report visible event graphics first. Then classify NPCs, Pokémon, followers, interaction objects, effects, items, and hidden items.
 
-Use [Entities, Items, and Quests](06_ENTITIES_ITEMS_AND_QUESTS.md) for the record layouts.
+Use [Entities and Items](06_ENTITIES_AND_ITEMS.md) for the record layouts.
 
-## 8. Preserve existing quest support
-
-Keep quest support already marked true in the README. All other games and future additions use N/A for Quests. Do not add new quest detectors unless the user changes this policy. Existing confirmed quest integrations remain supported.
-
-## 9. Add the Android configuration
+## 8. Add the Android configuration
 
 Create a `GeneratedGameConfig` with:
 
@@ -90,11 +86,15 @@ Create a `GeneratedGameConfig` with:
 
 Increase the setup revision when Repair must reinstall a changed tracker or integration file.
 
+Use the shared generated map view and viewport for player following, zoom, dragging and visible map bounds. Following is enabled by default while zoomed. Determine zoom from the viewport multiplier, independently of the image scaling preset, and supply real player coordinates for smooth movement.
+
 For Wild Instincts encounter tables, emit the encounter records described in [Tracker File Format](03_TRACKER_FILE_FORMAT.md#encounter-table). The main app's generated map host supplies the draggable, collapsible, resizable panel and saves its layout under the game's preferences name. Supply real species keys, sprites, level ranges, source-specific weights, and caught flags so the same panel and supported Pokédex links work for new games.
 
-## 10. Test the full lifecycle
+## 9. Test the full lifecycle
 
 Test a new setup, launch, movement, map transition, app restart, game restart, Repair, and an interrupted tracker write. Confirm that save data remains untouched.
+
+Check player following after pinch zoom, at different map scaling percentages, and on maps with empty outer borders. Drag the map and confirm following resumes on the next player movement, including movement within a tile.
 
 Also test auto detection with a renamed folder, nested extraction, wrong game, multiple releases or languages, cancelled selection, revoked root access, and app restart. Verify No, Yes, Select, and Neither before shipping.
 

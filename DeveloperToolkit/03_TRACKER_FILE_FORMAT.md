@@ -91,6 +91,27 @@ export_error=Map export failed
 
 The Android app uses these fields to distinguish an export failure from a map that is still being created.
 
+## Encounter table
+
+The main app's shared encounter panel reads the following fields on every supported map screen:
+
+```text
+encounter_mode=Land
+encounter_species=Paras,Rattata
+encounter_details=Land^Paras^46^10^31^2^4^1^PARAS^Graphics/Pokemon/Front/PARAS.png;Land^Rattata^19^10^31^2^4^0^RATTATA^Graphics/Pokemon/Front/RATTATA.png
+encounter_context=Rain^Night^
+owned_species=46
+species_max=1025
+```
+
+Each detail record contains source, display name, species ID, weight, total weight for that source, minimum level, maximum level, caught flag, species key, and relative sprite path. Separate records with semicolons and fields with `^`. Remove those separators and line breaks from display text. Keep each source's total separate so fishing and land rates are not combined.
+
+Use a species ID of `0` when the engine uses symbolic IDs, and supply the species key and sprite path. The Pokédex link resolves game species keys before numeric IDs. Missing levels, rates, and caught flags stay blank; do not invent values. Set both encounter fields to empty when an area has no encounter data so previous-area rows clear.
+
+The main app handles dragging, collapse, pinch and corner resizing, scrolling, and per-game layout persistence. New games using `GeneratedMapGameActivity` and `GeneratedLiveMapView` inherit these controls. Custom map hosts must publish complete snapshots with `EncounterTable.publish(activity, text)`, draw with `EncounterTable.draw(view, canvas)`, and give `EncounterTable.onTouch(view, event)` the first chance to handle touches. Keep ordinary map gestures for touches outside the panel.
+
+Finish each snapshot with a newline. Partial snapshots are ignored. A same-map base-tracker handoff that omits encounter keys preserves the last complete table, preventing flicker while the shared extension publishes its records.
+
 ## Safe writing
 
 Write one complete snapshot at a time. When possible, overwrite the existing file entry instead of deleting and recreating it. Some Android document providers keep a handle to the original entry.

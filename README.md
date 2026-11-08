@@ -35,14 +35,14 @@ Current live release: **6.2** (build 61)
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A |
 | Pokémon Myth |  |  |  |  |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo |  |  |  |  |
+| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ |
 | PokéMortals | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Project Vanguard |  |  |  |  |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ |  |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A |
 | Pokémon Sacred Phoenix |  |  |  |  |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ |  |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ |  |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Survivor Burst |  |  |  |  |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ |  |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |

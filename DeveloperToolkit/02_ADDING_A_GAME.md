@@ -92,6 +92,8 @@ Create a `GeneratedGameConfig` with:
 
 Increase the setup revision when Repair must reinstall a changed tracker or integration file.
 
+For Wild Instincts encounter tables, emit the encounter records described in [Tracker File Format](03_TRACKER_FILE_FORMAT.md#encounter-table). The main app's generated map host supplies the draggable, collapsible, resizable panel and saves its layout under the game's preferences name. Supply real species keys, sprites, level ranges, source-specific weights, and caught flags so the same panel and supported Pokédex links work for new games.
+
 ## 10. Test the full lifecycle
 
 Test a new setup, launch, movement, map transition, app restart, game restart, Repair, and an interrupted tracker write. Confirm that save data remains untouched.

@@ -28,25 +28,26 @@ Current live release: **6.2** (build 61)
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | N/A |
 | Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Fire Ash | | | | | |
-| Pokémon GS Vitro | | | | | |
+| Pokémon Fire Ash |  |  |  | N/A |  |
+| Pokémon GS Vitro |  |  |  | N/A |  |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | ✓ | N/A |
-| Pokémon Myth | | | | | |
+| Pokémon Myth |  |  |  | N/A |  |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo | | | | | |
+| Pokémon Ópalo |  |  |  | N/A |  |
 | PokéMortals | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Project Vanguard | | | | | |
+| Pokémon Project Vanguard |  |  |  | N/A |  |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | |
-| Pokémon Sacred Phoenix | | | | | |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A |  |
+| Pokémon Sacred Phoenix |  |  |  | N/A |  |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | |
-| Pokémon Survivor Burst | | | | | |
+| Pokémon Survivor Burst |  |  |  | N/A |  |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | ✓ | N/A |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
+
 
 ### BattleDex
 

@@ -69,11 +69,9 @@ Report visible event graphics first. Then classify NPCs, Pokémon, followers, in
 
 Use [Entities, Items, and Quests](06_ENTITIES_ITEMS_AND_QUESTS.md) for the record layouts.
 
-## 8. Add quests last
+## 8. Preserve existing quest support
 
-Quest markers need game-specific evidence. Prefer quest APIs, switches, variables, and active event page conditions. Avoid matching broad words from ordinary dialogue.
-
-The project utility `tools/audit_quest_triggers.py` can inspect RPG Maker XP data for coordinate-bearing quest triggers.
+Keep quest support already marked true in the README. All other games and future additions use N/A for Quests. Do not add new quest detectors unless the user changes this policy. Existing confirmed quest integrations remain supported.
 
 ## 9. Add the Android configuration
 

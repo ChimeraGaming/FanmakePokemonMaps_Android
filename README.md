@@ -38,7 +38,7 @@ Current live release: **6.2** (build 61)
 | Pokémon Ópalo |  |  |  |  |
 | PokéMortals | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Project Vanguard |  |  |  |  |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ |  |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ |  |
 | Pokémon Sacred Phoenix |  |  |  |  |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ |  |

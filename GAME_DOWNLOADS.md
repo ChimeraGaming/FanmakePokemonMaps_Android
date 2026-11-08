@@ -12,7 +12,7 @@
 | Pokémon Myth | [Download](https://www.mediafire.com/file/pfb200uk53diizh/Pokemon-Myth.zip/file) | |
 | Pokémon Myth 2 | [Download](https://www.mediafire.com/file/q2mocmpe3nzt6jg/Pokemon+Myth+2+Tech+Demo+v0.6.zip) | |
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
-| Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://mega.nz/file/OzIGwTha#FsGjvebhHr_MrC4f18n9M6L9MvGVl7NvhpAn244XkT8) | |
+| Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file) | |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
 | Pokémon Rejuvenation | [English](https://www.rebornevo.com/rejuvdown/) | v14.0 / v14.0.28 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | [English](https://www.rebornevo.com/rejuvdown/) | Version -1 |
@@ -26,7 +26,7 @@
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
 
-Pokémon Myth, Pokémon Myth 2, Pokémon Ópalo, and Pokémon Survivor Burst do not yet have map support.
+Pokémon Myth, Pokémon Myth 2, and Pokémon Survivor Burst do not yet have map support.
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
 

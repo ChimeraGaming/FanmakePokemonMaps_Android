@@ -14,7 +14,7 @@
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
 | Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://mega.nz/file/OzIGwTha#FsGjvebhHr_MrC4f18n9M6L9MvGVl7NvhpAn244XkT8) | |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
-| Pokémon Rejuvenation | [English](https://www.rebornevo.com/rejuvdown/) | v14.0 |
+| Pokémon Rejuvenation | [English](https://www.rebornevo.com/rejuvdown/) | v14.0 / v14.0.28 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | [English](https://www.rebornevo.com/rejuvdown/) | Version -1 |
 | Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.zip) | |
 | Pokémon Solar Eclipse | [English](https://eeveeexpo.com/threads/9048/) | v1.11.0 |

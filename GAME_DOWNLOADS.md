@@ -19,7 +19,7 @@
 | Pokémon Project Vanguard | [Download](https://ayreii.wixsite.com/projectvanguard/download) | |
 | Pokémon Rejuvenation | [English](https://www.rebornevo.com/rejuvdown/) | v14.0 / v14.0.28 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | [English](https://www.rebornevo.com/rejuvdown/) | Version -1 |
-| Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.zip) | |
+| Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.7z) | |
 | Pokémon Solar Eclipse | [English](https://eeveeexpo.com/threads/9048/) | v1.11.0 |
 | Pokémon Soulstones 2: Time Wardens | [English](https://www.pokecommunity.com/threads/pokemon-soulstones-2-time-wardens-post-game-released.501217/) | v2.05 |
 | Pokémon Survivor Burst | [Download](https://www.mediafire.com/file/6ayypke83heil5k/Rotom_Launcher.zip/file) | |

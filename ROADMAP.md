@@ -24,7 +24,7 @@
 
 - Added adaptive screen controls for single-screen, split-screen, and dual-screen devices.
 - Added pinch zoom, touch panning, and manual screen placement.
-- Expanded player, item, collectible, legendary, and quest marker support.
+- Expanded player, item, collectible, and legendary marker support.
 - Updated map installation, diagnostics, repair tools, and game-specific controls.
 
 </details>
@@ -45,7 +45,7 @@
 
 - Added three games and updated all supported maps with all available sprites.
 - Reworked the Hub, Tap Menu, settings, installer, downloads, and minimap overlay.
-- Added quest tracking updates, shiny starter choices, concurrent status checks, and map loading fixes.
+- Added shiny starter choices, concurrent status checks, and map loading fixes.
 
 </details>
 

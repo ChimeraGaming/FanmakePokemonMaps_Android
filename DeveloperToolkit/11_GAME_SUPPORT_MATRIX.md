@@ -18,7 +18,7 @@ Quest status meanings:
 | Pokémon Infinite Fusion 2: Hoenn | Loose script tracker | Confirmed | Confirmed | Confirmed |
 | Pokémon Insurgence | Patch Mods | Confirmed | Confirmed | Detector added |
 | Pokémon Nova | Loose Data scripts | Confirmed | Confirmed | Confirmed |
-| Pokémon Ópalo | Compiled Scripts archive patch, bilingual release | Pending device test | Pending device test | No separate system found |
+| Pokémon Ópalo | Compiled Scripts archive patch, bilingual release | Pending device test | Pending device test | N/A |
 | PokéMortals | Compiled Scripts archive patch | Confirmed | Confirmed | N/A |
 | Pokémon Rejuvenation | Patch Mods | Confirmed | Confirmed | Confirmed |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | Compiled Scripts archive patch | Confirmed | Confirmed | N/A |

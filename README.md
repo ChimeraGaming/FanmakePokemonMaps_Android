@@ -29,7 +29,9 @@ Current live release: **6.2** (build 61)
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ |
 | Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon GS Vitro | ✓ |  | ✓ | ✓ |  |
+| Pokémon Gadir Deluxe |  |  |  |  |  |
+| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Hero Legacy |  |  |  |  |  |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |

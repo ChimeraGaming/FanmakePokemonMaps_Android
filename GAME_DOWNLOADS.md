@@ -7,7 +7,7 @@
 | Pokémon Conquer the Gauntlet | [English](https://drive.google.com/drive/folders/1IEu6T32xPCGMOb1V1_w__hH6dMaM4A1o) | v1.0.6 |
 | Pokémon Decay | [English](https://www.mediafire.com/file/0dclcbpmhwu56i1/Pok%C3%A9mon+Decay+1.2.3.rar/file) | v1.2.3 |
 | Pokémon Fire Ash | [Download](https://mega.nz/file/F2QV2aSR#lRU_hYarsqe5ehE7YpkkNV3oSJAVzOPNAxsDzmVy00A) | v3.7.1 |
-| Pokémon GS Vitro | [Download](https://www.mediafire.com/file/x98titoufputuxl/GS_Vitro%255B1.1.1%255D.zip/file) | v1.1.1 |
+| Pokémon GS Vitro | [Download](https://www.mediafire.com/file/x98titoufputuxl/GS_Vitro%255B1.1.1%255D.zip/file) | v1.1.4 |
 | Pokémon Infinite Fusion | [English](https://www.mediafire.com/file/sv2pu6lzofwbem7/InfiniteFusionAndroid.zip/file) | v6.2.4 |
 | Pokémon Infinite Fusion 2: Hoenn | [English](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file)<br>[French](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file) | v1.2.2 |
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |
@@ -28,7 +28,7 @@
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
 
-Pokémon GS Vitro, Pokémon Myth, Pokémon Myth 2, and Pokémon Project Vanguard do not yet have map support.
+Pokémon Myth, Pokémon Myth 2, and Pokémon Project Vanguard do not yet have map support.
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
 

@@ -22,17 +22,15 @@
 | Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.7z) | |
 | Pokémon Solar Eclipse | [English](https://eeveeexpo.com/threads/9048/) | v1.11.0 |
 | Pokémon Soulstones 2: Time Wardens | [English](https://www.pokecommunity.com/threads/pokemon-soulstones-2-time-wardens-post-game-released.501217/) | v2.05 |
-| Pokémon Survivor Burst | [Download](https://www.mediafire.com/file/6ayypke83heil5k/Rotom_Launcher.zip/file) | |
 | Pokémon Unchosen | [English](https://aldrine.itch.io/pokemon-unchosen)<br>[French](https://aldrine.itch.io/pokemon-unchosen) | v1.6.5<br>v1.6.4 |
 | Pokémon Unbreakable Ties | [English](https://pokemonunbreakableties.com/download/)<br>[Spanish](https://www.mediafire.com/file/eynctfkz3yb89g0/Pokemon_Unbreakable_Ties_4.9.1_%2528ESP%2529.zip/file) | v4.9.1 |
 | Pokémon Z | [English](https://pokemonzfangame.com/download/) | v2.13 |
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
 
-Pokémon GS Vitro, Pokémon Myth, Pokémon Myth 2, Pokémon Project Vanguard, and Pokémon Survivor Burst do not yet have map support.
+Pokémon GS Vitro, Pokémon Myth, Pokémon Myth 2, and Pokémon Project Vanguard do not yet have map support.
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
 
-[Pokémon Survivor Burst guide](https://www.pokecommunity.com/threads/pok%C3%A9mon-survivor-burst-multi-languages.543514/)
 
 Fanmake Pokémon Maps does not host these games. Each link opens the download page supplied by the game's developer or community.

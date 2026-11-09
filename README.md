@@ -26,7 +26,7 @@ Current live release: **6.2** (build 61)
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ |
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A |  |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ |
 | Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon GS Vitro |  |  |  |  |  |
@@ -44,7 +44,7 @@ Current live release: **6.2** (build 61)
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Survivor Burst |  |  |  |  |  |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ |  |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | N/A |  |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
 

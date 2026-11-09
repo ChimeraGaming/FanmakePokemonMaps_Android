@@ -18,6 +18,8 @@ The BattleDex option is stored in the selected game's map settings. It is enable
 
 The Android reader keeps the last valid battle state if `battle_active` is temporarily absent during a split tracker write. The tracker must still write `battle_active=0` when the battle ends.
 
+Tap an opponent's displayed sprite to open its National Dex entry in supported games. Taps outside the sprite keep the existing menu behavior. In the National Dex, tap an evolution sprite to open that species; evolution levels and conditions remain visible.
+
 ## Tracker fields
 
 BattleDex adds two top-level tracker fields:
@@ -214,6 +216,8 @@ Use empty background, overlay, tab, arrow, and caught-icon lists when the game h
 9. Render a 512 by 384 PNG preview and check text, sprite, type, weakness, and entry placement.
 10. Increase the setup revision so Repair installs the changed tracker.
 
+Existing and future Generated games use the shared `BattleDexView` and `EncounterDex` navigation. Pass the opponent's species number, native species key, and name so custom species resolve correctly. Use the host's `runtimeRootDocument()` for Pokédex data, artwork, and requests, including a native engine's private runtime copy. Keep the selected source folder unchanged and preserve the existing legacy-root fallbacks.
+
 ## Testing checklist
 
 ### Battle lifecycle
@@ -240,6 +244,8 @@ Use empty background, overlay, tab, arrow, and caught-icon lists when the game h
 - Category, entry, height, and weight use the current form.
 - Caught icon matches the player's Pokédex state.
 - Custom species remain readable when no offline fallback record exists.
+- Tapping an opponent or evolution sprite opens the correct National Dex species, including custom species.
+- A tap survives an unchanged polling update; dragging, multiple touches, or a changed opponent cancels it.
 
 ### Artwork
 

@@ -40,7 +40,7 @@ Current live release: **6.2** (build 61)
 | Pokémon Project Vanguard |  |  |  |  |  |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Sacred Phoenix | ✓ | ✓ |  |  |  |
+| Pokémon Sacred Phoenix | ✓ | ✓ |  | ✓ |  |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Survivor Burst |  |  |  |  |  |

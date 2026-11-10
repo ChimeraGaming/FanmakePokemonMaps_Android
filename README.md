@@ -35,7 +35,7 @@ Current live release: **6.2** (build 61)
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Myth |  |  |  |  |  |
+| Pokémon Myth | ✓ |  | ✓ | ✓ | ✓ |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ |
 | PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ |

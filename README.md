@@ -10,7 +10,7 @@
 
 # Fanmake Pokémon Maps
 
-[![Release v6.6](https://img.shields.io/badge/release-v6.6-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v7.0](https://img.shields.io/badge/release-v7.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
@@ -18,9 +18,7 @@ Fanmake Pokémon Maps is an Android live-map and battle companion for Pokémon f
 
 The interface supports dual-screen handhelds such as the AYN Thor and compatible Android phones, tablets, and handhelds.
 
-Current live release: **6.6** (build 65)
-
-Upcoming release: **7.0.0** (build 67)
+Current live release: **7.0.0** (build 67)
 
 ## Supported games
 
@@ -65,7 +63,7 @@ Wild Instincts adds supported per-game shiny odds, Force Shiny, pre-battle Run A
 **Shiny Starter** shows regular and shiny choices at supported starter selections and trades. Choose **No Shiny** to keep the generated Pokémon unchanged or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be changed from the map's Tap Menu where supported.
 
 - [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
-- [Current Changelog](recovery/CHANGELOG_v7.0.md)
+- [Current Changelog](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases/latest)
 - [Roadmap](ROADMAP.md)
 
 ## Install

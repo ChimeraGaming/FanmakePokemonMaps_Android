@@ -29,17 +29,17 @@ Current live release: **6.2** (build 61)
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | 7.0 |
 | Pokémon Decay | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Fire Ash | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Gadir Deluxe | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon Gadir Deluxe | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Pokémon GS Vitro | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Hero Legacy | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon Hero Legacy | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Myth | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon Myth | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Pokémon Nova | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Ópalo | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | PokéMortals | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Project Vanguard | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon Project Vanguard | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | 7.0 | 7.0 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
 | Pokémon Sacred Phoenix | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |

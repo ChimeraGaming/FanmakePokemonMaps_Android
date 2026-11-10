@@ -71,17 +71,14 @@
 </details>
 
 <details>
-<summary><strong>7.0 - Radical Update</strong></summary>
+<summary><strong>7.0 - The 33%</strong></summary>
 
-- Add Radical Z to Pokémon Z.
-- Define and test Radical Mode behavior in Pokémon Z before expanding it to other games.
-- Keep the standard Pokémon Z experience available when Radical Z is disabled.
-
-7.1 - Radical Update Expansion
-
-- Begin adding Radical Mode to other supported games.
-- Check each game's capabilities before adding Radical Mode controls or game changes.
-- Preserve each game's native behavior when a Radical Mode feature is not supported.
+- Added live maps for eight fangames, bringing the supported lineup to 24.
+- Upgraded Possible Catches with draggable panels, resizing, and Pokédex links.
+- Added automatic game folder detection and JoiPlay downloads from the hub.
+- Added a full-width interactive download route.
+- Smoothed live tracking, fixed sprite issues, and improved map fitting.
+- Found and unblocked Pokemon Z's Radical mode (heroic).
 
 </details>
 

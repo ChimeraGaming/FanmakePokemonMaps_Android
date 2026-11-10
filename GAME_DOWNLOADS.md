@@ -17,7 +17,7 @@
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
 | Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file) | |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
-| Pokémon Project Vanguard | [Download](https://ayreii.wixsite.com/projectvanguard/download) | |
+| Pokémon Project Vanguard | [Windows Download](https://mega.nz/file/xoYRTI6Z#Kak_IArU2YvHWnrB2dZRWSTretVfLOm8HNk9i_vzzLM) | v4.0.14 |
 | Pokémon Rejuvenation | [English](https://www.rebornevo.com/rejuvdown/) | v14.0 / v14.0.28 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | [English](https://www.rebornevo.com/rejuvdown/) | Version -1 |
 | Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.7z) | |

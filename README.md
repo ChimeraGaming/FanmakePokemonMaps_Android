@@ -39,7 +39,7 @@ Current live release: **6.2** (build 61)
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ |
 | PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Project Vanguard |  |  |  | ✓ |  |
+| Pokémon Project Vanguard | ✓ |  | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
 | Pokémon Sacred Phoenix | ✓ | ✓ | ✓ | ✓ | ✓ |

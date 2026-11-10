@@ -31,7 +31,7 @@ Current live release: **6.2** (build 61)
 | Pokémon Fire Ash | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Pokémon Gadir Deluxe | 7.0 |  | 7.0 | 7.0 | 7.0 |
 | Pokémon GS Vitro | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Hero Legacy | 7.0 |  |  | 7.0 |  |
+| Pokémon Hero Legacy | 7.0 |  | 7.0 | 7.0 |  |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |

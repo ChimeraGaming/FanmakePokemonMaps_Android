@@ -14,7 +14,6 @@
 | Pokémon Infinite Fusion 2: Hoenn | [English](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file)<br>[French](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file) | v1.2.2 |
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |
 | Pokémon Myth | [Download](https://www.mediafire.com/file/pfb200uk53diizh/Pokemon-Myth.zip/file) | |
-| Pokémon Myth 2 | [Download](https://www.mediafire.com/file/q2mocmpe3nzt6jg/Pokemon+Myth+2+Tech+Demo+v0.6.zip) | |
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
 | Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file) | |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
@@ -29,8 +28,6 @@
 | Pokémon Z | [English](https://pokemonzfangame.com/download/) | v2.13 |
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
-
-Pokémon Myth 2 does not yet have map support.
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
 

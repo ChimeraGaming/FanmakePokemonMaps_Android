@@ -25,28 +25,28 @@ Current live release: **6.2** (build 61)
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | 6.7 |
+| Pokémon Decay | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Fire Ash | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
 | Pokémon Gadir Deluxe |  |  |  |  |  |
-| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon GS Vitro | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
 | Pokémon Hero Legacy |  |  |  |  |  |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | 6.7 | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Myth | ✓ |  | ✓ | ✓ | ✓ |
-| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Project Vanguard | ✓ |  | ✓ | ✓ | ✓ |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Myth | 6.7 |  | 6.7 | 6.7 | 6.7 |
+| Pokémon Nova | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Ópalo | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
+| PokéMortals | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Project Vanguard | 6.7 |  | 6.7 | 6.7 | 6.7 |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | 6.7 | 6.7 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Sacred Phoenix | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Sacred Phoenix | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | 6.7 | 6.7 |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | 6.7 |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 

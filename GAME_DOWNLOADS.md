@@ -9,6 +9,7 @@
 | Pokémon Fire Ash | [Download](https://mega.nz/file/F2QV2aSR#lRU_hYarsqe5ehE7YpkkNV3oSJAVzOPNAxsDzmVy00A) | v3.7.1 |
 | Pokémon Gadir Deluxe | [English](https://www.mediafire.com/file/jvx27lbfp7e6srs/Pok%C3%A9mon+Gadir+Deluxe+ENG+v1.3.zip/file) | v1.3 |
 | Pokémon GS Vitro | [Download](https://www.mediafire.com/file/x98titoufputuxl/GS_Vitro%255B1.1.1%255D.zip/file) | v1.1.4 |
+| Pokémon Hero Legacy | [Windows Download](https://www.mediafire.com/file/d3q323i71qbm49t/Pokemon_Hero_Legacy_3.1a.zip/file) | v3.1a |
 | Pokémon Infinite Fusion | [English](https://www.mediafire.com/file/sv2pu6lzofwbem7/InfiniteFusionAndroid.zip/file) | v6.2.4 |
 | Pokémon Infinite Fusion 2: Hoenn | [English](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file)<br>[French](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file) | v1.2.2 |
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |

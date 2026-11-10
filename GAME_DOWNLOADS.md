@@ -28,7 +28,7 @@
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
 
-Pokémon Myth, Pokémon Myth 2, and Pokémon Project Vanguard do not yet have map support.
+Pokémon Myth 2 and Pokémon Project Vanguard do not yet have map support.
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
 

@@ -25,28 +25,28 @@ Current live release: **6.2** (build 61)
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | 6.7 |
-| Pokémon Decay | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Fire Ash | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
-| Pokémon Gadir Deluxe | 6.7 |  | 6.7 | 6.7 | 6.7 |
-| Pokémon GS Vitro | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | 7.0 |
+| Pokémon Decay | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Fire Ash | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
+| Pokémon Gadir Deluxe | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon GS Vitro | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
 | Pokémon Hero Legacy |  |  |  |  |  |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | 6.7 | ✓ |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | 7.0 | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Myth | 6.7 |  | 6.7 | 6.7 | 6.7 |
-| Pokémon Nova | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Ópalo | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
-| PokéMortals | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Project Vanguard | 6.7 |  | 6.7 | 6.7 | 6.7 |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | 6.7 | 6.7 |
+| Pokémon Myth | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon Nova | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Ópalo | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
+| PokéMortals | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Project Vanguard | 7.0 |  | 7.0 | 7.0 | 7.0 |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | 7.0 | 7.0 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Sacred Phoenix | 6.7 | 6.7 | 6.7 | 6.7 | 6.7 |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | 6.7 | ✓ |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | 6.7 | 6.7 |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | 6.7 |
+| Pokémon Sacred Phoenix | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | 7.0 | 7.0 |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | 7.0 |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 
@@ -63,7 +63,7 @@ Wild Instincts adds supported per-game shiny odds, Force Shiny, pre-battle Run A
 **Shiny Starter** shows regular and shiny choices at supported starter selections and trades. Choose **No Shiny** to keep the generated Pokémon unchanged or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be changed from the map's Tap Menu where supported.
 
 - [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
-- [Current Changelog](recovery/CHANGELOG_v6.7.md)
+- [Current Changelog](recovery/CHANGELOG_v7.0.md)
 - [Roadmap](ROADMAP.md)
 
 ## Install

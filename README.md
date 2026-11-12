@@ -25,28 +25,30 @@ Current live release: **7.0.0** (build 67)
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | 7.0 |
-| Pokémon Decay | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Fire Ash | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Gadir Deluxe | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon GS Vitro | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Hero Legacy | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | 7.0 | ✓ |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Myth | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Nova | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Ópalo | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| PokéMortals | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Project Vanguard | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | 7.0 | 7.0 |
+| Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ |
+| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Sacred Phoenix | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | 7.0 | ✓ |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | 7.0 | 7.0 |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | 7.0 |
+| Pokémon Re:Union | 7.1 | | 7.1 | N/A | 7.1 |
+| Pokémon Sacred Phoenix | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ |
+| Pokémon World Frontier | 7.1 | 7.1 | 7.1 | N/A | 7.1 |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 

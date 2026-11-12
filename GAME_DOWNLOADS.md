@@ -20,11 +20,13 @@
 | Pokémon Project Vanguard | [Windows Download](https://mega.nz/file/xoYRTI6Z#Kak_IArU2YvHWnrB2dZRWSTretVfLOm8HNk9i_vzzLM) | v4.0.14 |
 | Pokémon Rejuvenation | [English](https://www.rebornevo.com/rejuvdown/) | v14.0 / v14.0.28 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | [English](https://www.rebornevo.com/rejuvdown/) | Version -1 |
+| Pokémon Re:Union | [Download](https://mega.nz/folder/GFphEZhC#M3beSqdU3In_IPgZjegsAg) | v3.8.0 |
 | Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.7z) | |
 | Pokémon Solar Eclipse | [English](https://eeveeexpo.com/threads/9048/) | v1.11.0 |
 | Pokémon Soulstones 2: Time Wardens | [English](https://www.pokecommunity.com/threads/pokemon-soulstones-2-time-wardens-post-game-released.501217/) | v2.05 |
 | Pokémon Unchosen | [English](https://aldrine.itch.io/pokemon-unchosen)<br>[French](https://aldrine.itch.io/pokemon-unchosen) | v1.6.5<br>v1.6.4 |
 | Pokémon Unbreakable Ties | [English](https://pokemonunbreakableties.com/download/)<br>[Spanish](https://www.mediafire.com/file/eynctfkz3yb89g0/Pokemon_Unbreakable_Ties_4.9.1_%2528ESP%2529.zip/file) | v4.9.1 |
+| Pokémon World Frontier | [Windows/Linux](https://www.mediafire.com/file/oj29czbk80pipdy/Pokemon_World_Frontier_v1.2.2_Windows_Linux.zip/file?action=check) | v1.2.2 |
 | Pokémon Z | [English](https://pokemonzfangame.com/download/) | v2.13 |
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)

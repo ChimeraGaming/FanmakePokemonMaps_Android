@@ -49,7 +49,7 @@ Current live release: **7.0.0** (build 67)
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | N/A |
 | Pokémon World Frontier | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Xenoverse | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | |
+| Pokémon Xenoverse | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 <sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.

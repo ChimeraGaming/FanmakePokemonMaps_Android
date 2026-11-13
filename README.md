@@ -24,6 +24,8 @@ Current live release: **7.0.0** (build 67)
 
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| A Farfetch'd Story | 8.0 | | 8.0 | 8.0 | | 8.0 | 8.0 |
+| A Farfetch'd Story 2 | 8.0 | | 8.0 | N/A | | 8.0 | 8.0 |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
@@ -32,6 +34,7 @@ Current live release: **7.0.0** (build 67)
 | Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Hydro Bliss | 8.0 | | 8.0 | 8.0 | 8.0 | | 8.0 |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |

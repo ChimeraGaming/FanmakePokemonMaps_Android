@@ -117,6 +117,8 @@ Skip pseudo-types and engine-only special types.
 
 ## Pokédex metadata
 
+Use the selected game's full Pokédex roster in its own order and numbering. Show every entry from the start and use the save only for caught status. Keep the game's internal species ID separate from the displayed Pokédex number so BattleDex, Possible Catches, and evolution links open the right entry.
+
 Use the current form's data when it is available. Collect:
 
 - Species number and key

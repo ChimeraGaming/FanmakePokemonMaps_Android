@@ -80,6 +80,8 @@ To move a save, close both players and back up both save folders. Copy the save 
 - [Current Changelog](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases/latest)
 - [Roadmap](ROADMAP.md)
 
+Looking for another fangame to play? Browse [Eevee Expo's Completed Games](https://eeveeexpo.com/completed-games/).
+
 ## Install
 
 1. Download the latest APK from [GitHub Releases](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases).

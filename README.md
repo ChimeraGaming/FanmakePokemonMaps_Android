@@ -59,7 +59,7 @@ BattleDex replaces the live map during supported battles with the opposing Poké
 
 ### Wild Instincts
 
-Wild Instincts adds supported per-game shiny odds, Force Shiny, pre-battle Run Away choices, automatic run attempts for caught Pokémon, rare encounter notices, and Possible Catches details. Pokémon Z, Pokémon Africanvs, Pokémon Soulstones 2: Time Wardens, and Pokémon Unbreakable Ties currently provide game-specific Wild Instincts features.
+Wild Instincts adds per-game shiny odds, Force Shiny, pre-battle Run Away choices, automatic run attempts for caught Pokémon, rare encounter notices, and Possible Catches details where supported.
 
 ### Shiny starter choice
 

@@ -83,6 +83,14 @@
 </details>
 
 <details>
+<summary><strong>v8.0: Are You Kirin Me?</strong></summary>
+
+- Added Kirin alongside JoiPlay, with a saved player choice for each compatible game.
+- Added a Kirin download button next to JoiPlay in the Hub.
+
+</details>
+
+<details>
 <summary><strong>Future</strong></summary>
 
 - Expand compatibility with additional fangames.

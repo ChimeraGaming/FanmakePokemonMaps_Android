@@ -3,6 +3,8 @@
 | Name | Download | Version |
 | --- | --- | --- |
 | Pokemon Africanvs | [English](https://www.pokeharbor.com/2024/08/pokemon-africanvs/#google_vignette)<br>[Spanish](https://www.pokeharbor.com/2024/08/pokemon-africanvs/#google_vignette) | Definitive Edition |
+| A Farfetch'd Story | [Windows Download](https://www.mediafire.com/file/is7pwxmzut8ag3v/A_Farfetch%2527d_Story_v1.5.zip/file) | v1.5 |
+| A Farfetch'd Story 2 | [Windows Download](https://www.mediafire.com/file/8xwgeh8gtqli1pb/A_Farfetch%2527d_Story_2_v1.0.8.zip/file) | v1.0.8 |
 | Pokémon Añil/Indigo | [English](https://www.mediafire.com/file/4ml2qb1ldlo5h6k/Pokemon_Indigo_4.0.2.zip/file)<br>[Spanish](https://mega.nz/file/C3pxkJJQ#ra3IhRL_YPd1SL76jlMVMnLrtWmDpo3XNVdprPW8ACU) | v4.0.2<br>v4.12 |
 | Pokémon Conquer the Gauntlet | [English](https://drive.google.com/drive/folders/1IEu6T32xPCGMOb1V1_w__hH6dMaM4A1o) | v1.0.6 |
 | Pokémon Decay | [English](https://www.mediafire.com/file/0dclcbpmhwu56i1/Pok%C3%A9mon+Decay+1.2.3.rar/file) | v1.2.3 |
@@ -10,6 +12,7 @@
 | Pokémon Gadir Deluxe | [English](https://www.mediafire.com/file/jvx27lbfp7e6srs/Pok%C3%A9mon+Gadir+Deluxe+ENG+v1.3.zip/file) | v1.3 |
 | Pokémon GS Vitro | [Download](https://www.mediafire.com/file/x98titoufputuxl/GS_Vitro%255B1.1.1%255D.zip/file) | v1.1.4 |
 | Pokémon Hero Legacy | [Windows Download](https://www.mediafire.com/file/d3q323i71qbm49t/Pokemon_Hero_Legacy_3.1a.zip/file) | v3.1a |
+| Pokémon Hydro Bliss | [Windows Download](https://drive.google.com/drive/folders/1lyIh3qykVsYeDdLqZHJHCTbptQv71wIl) | v3.1.30 |
 | Pokémon Infinite Fusion | [English](https://www.mediafire.com/file/sv2pu6lzofwbem7/InfiniteFusionAndroid.zip/file) | v6.2.4 |
 | Pokémon Infinite Fusion 2: Hoenn | [English](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file)<br>[French](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file) | v1.2.2 |
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |

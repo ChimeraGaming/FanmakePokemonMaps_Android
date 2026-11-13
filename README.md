@@ -38,8 +38,10 @@ Current live release: **7.0.0** (build 67)
 | Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Orre | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Realidea System | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Re:Union | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |

@@ -16,8 +16,10 @@
 | Pokémon Myth | [Download](https://www.mediafire.com/file/pfb200uk53diizh/Pokemon-Myth.zip/file) | |
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
 | Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file) | |
+| Pokémon Orre | [Windows Download](https://drive.google.com/file/d/1cs-xUZqPWaxks7Ry20W_HXRZcB45_4NY/view) | v2.1.2 |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
 | Pokémon Project Vanguard | [Windows Download](https://mega.nz/file/xoYRTI6Z#Kak_IArU2YvHWnrB2dZRWSTretVfLOm8HNk9i_vzzLM) | v4.0.14 |
+| Pokémon Realidea System | [Download](https://mega.nz/file/A4MEwKIb#lyK3r1C49HfNmQuDwaGRJ6OrALOM9rHc84IZpqf-Rt4) | v4.1 |
 | Pokémon Rejuvenation | [JoiPlay Download](https://pkmnfan.games/rejuv-joiplay-mega)<br>[Kirin Download](https://pkmnfan.games/rejuv-kirin-mega) | v14.0 / v14.0.28 |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | [English](https://www.rebornevo.com/rejuvdown/) | Version -1 |
 | Pokémon Re:Union | [Download](https://mega.nz/folder/GFphEZhC#M3beSqdU3In_IPgZjegsAg) | v3.8.0 |

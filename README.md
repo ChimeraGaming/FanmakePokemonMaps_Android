@@ -42,7 +42,7 @@ Current live release: **7.0.0** (build 67)
 | Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Re:Union | ✓ | | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Re:Union | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Sacred Phoenix<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | N/A | N/A |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

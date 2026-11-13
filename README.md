@@ -22,34 +22,40 @@ Current live release: **7.0.0** (build 67)
 
 ## Supported games
 
-| Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ |
-| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon Re:Union | 7.1 | | 7.1 | N/A | 7.1 |
-| Pokémon Sacred Phoenix | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ |
-| Pokémon World Frontier | 7.1 | 7.1 | 7.1 | N/A | 7.1 |
-| Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ |
+Kirin compatibility applies to v8.0. For a checked game, open **Additional Options** and choose **Game Player**. Fanmake remembers the choice for each game. Add the same game folder to Kirin's library before launching it from Fanmake. Pokémon Rejuvenation has separate **JoiPlay Download** and **Kirin Download** options. Select the folder for your player in Fanmake.
+
+Kirin 0.4.0 can load an existing save from the game folder. [Kirin](https://www.playkirin.com/en/articles/kirin-0-4-0-news.html#save-files) usually writes new progress to `Kirin/Saved Games/<game title>`, so switching players can load an earlier save. Games with custom save systems may use a different location.
+
+To move a save, close both players and back up both save folders. Copy the save file you want to the other player's save folder, keeping its filename and using matching game versions. Check your progress on **Continue** before saving again. In Rejuvenation v14, each edition keeps saves in its own `Save Data` folder.
+
+| Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Re:Union | ✓ | | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Sacred Phoenix | ✓ | ✓ | ✓ | ✓ | ✓ | | |
+| Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | |
+| Pokémon World Frontier | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
+| Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 
 ### BattleDex
@@ -87,7 +93,7 @@ Versions shown on the Download page are the versions tested with the app. Nearby
 - **Maps** contains every supported game, installed-game filters, collections, search, setup, downloads, guides, repair, and live-map launch controls.
 - **Settings** separates hub behavior from universal map controls. Hub Settings includes library history, downloads, backup, restore, and recovery. Map Settings includes map display, markers, live details, and the overlay minimap.
 - **About** contains the app version, updates, project links, privacy details, and controls.
-- **Quick Launch** opens the selected map and starts its associated JoiPlay game. On supported multi-screen devices, the game opens on the display opposite the map.
+- **Quick Launch** opens the selected map and starts the game in the saved player. On supported multi-screen devices, the game opens on the display opposite the map.
 
 Select a game to view its details. From there you can install or open it, repair its map setup, choose a different game folder, download the game, open its guide, or add it to collections. Removing an association does not delete the game or its files.
 

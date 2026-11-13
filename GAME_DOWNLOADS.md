@@ -27,6 +27,7 @@
 | Pokémon Unchosen | [English](https://aldrine.itch.io/pokemon-unchosen)<br>[French](https://aldrine.itch.io/pokemon-unchosen) | v1.6.5<br>v1.6.4 |
 | Pokémon Unbreakable Ties | [English](https://pokemonunbreakableties.com/download/)<br>[Spanish](https://www.mediafire.com/file/eynctfkz3yb89g0/Pokemon_Unbreakable_Ties_4.9.1_%2528ESP%2529.zip/file) | v4.9.1 |
 | Pokémon World Frontier | [Windows/Linux](https://www.mediafire.com/file/oj29czbk80pipdy/Pokemon_World_Frontier_v1.2.2_Windows_Linux.zip/file?action=check) | v1.2.2 |
+| Pokémon Xenoverse | [Developer source](https://gitlab.com/weedleteam/Xenoverse-Source/-/tree/main/Xenoverse?ref_type=heads) | |
 | Pokémon Z | [English](https://pokemonzfangame.com/download/) | v2.13 |
 
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)

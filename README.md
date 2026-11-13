@@ -22,12 +22,6 @@ Current live release: **7.0.0** (build 67)
 
 ## Supported games
 
-Kirin compatibility applies to v8.0. For a checked game, open **Additional Options** and choose **Game Player**. Fanmake remembers the choice for each game. Add the same game folder to Kirin's library before launching it from Fanmake. Pokémon Rejuvenation has separate **JoiPlay Download** and **Kirin Download** options. Select the folder for your player in Fanmake.
-
-Kirin 0.4.0 can load an existing save from the game folder. [Kirin](https://www.playkirin.com/en/articles/kirin-0-4-0-news.html#save-files) usually writes new progress to `Kirin/Saved Games/<game title>`, so switching players can load an earlier save. Games with custom save systems may use a different location.
-
-To move a save, close both players and back up both save folders. Copy the save file you want to the other player's save folder, keeping its filename and using matching game versions. Check your progress on **Continue** before saving again. In Rejuvenation v14, each edition keeps saves in its own `Save Data` folder.
-
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
@@ -69,6 +63,14 @@ Wild Instincts adds supported per-game shiny odds, Force Shiny, pre-battle Run A
 ### Shiny starter choice
 
 **Shiny Starter** shows regular and shiny choices at supported starter selections and trades. Choose **No Shiny** to keep the generated Pokémon unchanged or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be changed from the map's Tap Menu where supported.
+
+### Kirin
+
+Kirin compatibility applies to v8.0. For a checked game, open **Additional Options** and choose **Game Player**. Fanmake remembers the choice for each game. Add the same game folder to Kirin's library before launching it from Fanmake. Pokémon Rejuvenation has separate **JoiPlay Download** and **Kirin Download** options. Select the folder for your player in Fanmake.
+
+Kirin 0.4.0 can load an existing save from the game folder. [Kirin](https://www.playkirin.com/en/articles/kirin-0-4-0-news.html#save-files) usually writes new progress to `Kirin/Saved Games/<game title>`, so switching players can load an earlier save. Games with custom save systems may use a different location.
+
+To move a save, close both players and back up both save folders. Copy the save file you want to the other player's save folder, keeping its filename and using matching game versions. Check your progress on **Continue** before saving again. In Rejuvenation v14, each edition keeps saves in its own `Save Data` folder.
 
 - [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 - [Current Changelog](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases/latest)

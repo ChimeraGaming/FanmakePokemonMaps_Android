@@ -43,14 +43,15 @@ Current live release: **7.0.0** (build 67)
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Re:Union | ✓ | | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Sacred Phoenix | ✓ | ✓ | ✓ | ✓ | ✓ | | |
+| Pokémon Sacred Phoenix<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | N/A | N/A |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | |
+| Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | N/A |
 | Pokémon World Frontier | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
+<sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.
 
 ### BattleDex
 

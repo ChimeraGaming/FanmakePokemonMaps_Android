@@ -18,7 +18,7 @@ Fanmake Pokémon Maps is an Android live-map and battle companion for Pokémon f
 
 The interface supports dual-screen handhelds such as the AYN Thor and compatible Android phones, tablets, and handhelds.
 
-Current live release: **7.0.0** (build 67)
+Current live release: **7.1** (build 68)
 
 ## Supported games
 

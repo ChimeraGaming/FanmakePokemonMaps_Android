@@ -1,3 +1,4 @@
+
 > ⚠️ Back up your saves before installing or repairing a map.
 
 ## Pixel Navigator
@@ -20,12 +21,26 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 
 Current live release: **7.1** (build 68)
 
-## Supported games
+---
+
+<details open>
+<summary><h2>Supported Games - 32 Games | 6 New in v8.0!</h2></summary>
+
+### New in v8.0
 
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| A Farfetch'd Story | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
-| A Farfetch'd Story 2 | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
+| **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
+| **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
+| **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Orre** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+
+### Previously Supported Games
+
+| Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
@@ -34,17 +49,14 @@ Current live release: **7.1** (build 68)
 | Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Hydro Bliss | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Orre | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Realidea System | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Re:Union | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
@@ -54,38 +66,109 @@ Current live release: **7.1** (build 68)
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | N/A |
 | Pokémon World Frontier | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Xenoverse | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 <sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.
 
+</details>
+
+### Looking for another Pokémon fangame?
+
+**Browse [Eevee Expo's Completed Games](https://eeveeexpo.com/completed-games/) to discover more Pokémon fangames to play!**
+
+---
+
+<details>
+<summary><strong>Features</strong></summary>
+
 ### BattleDex
 
-BattleDex replaces the live map during supported battles with the opposing Pokémon's Pokédex entry, sprite, types, weaknesses, measurements, and caught status. It follows opponent changes, supports switching between multiple active enemies, and returns to the map when battle ends. It is enabled by default and can be changed per game under **Live Map Details** in the map's Tap Menu. See the [BattleDex guide](DeveloperToolkit/14_BATTLEDEX.md) for integration details.
+Replaces the live map during supported battles with real-time opponent information.
+
+- **Pokédex:** Entry, sprite, types, weaknesses, and measurements
+- **Caught Status:** Shows whether the Pokémon has been caught
+- **Multi-Battle:** Switch between multiple active opponents
+- **Automatic:** Follows opponent changes and restores the map after battle
+- **Settings:** Enabled by default, configurable per game under **Live Map Details**
+
+[BattleDex Integration Guide](DeveloperToolkit/14_BATTLEDEX.md)
+
+---
 
 ### Wild Instincts
 
-Wild Instincts adds per-game shiny odds, Force Shiny, pre-battle Run Away choices, automatic run attempts for caught Pokémon, rare encounter notices, and Possible Catches details where supported.
+Additional encounter and shiny management tools.
 
-### Shiny starter choice
+- **Shiny Odds:** Per-game shiny probabilities
+- **Force Shiny:** Force supported encounters to be shiny
+- **Run Away:** Pre-battle escape choices
+- **Auto Run:** Automatically attempt escape from caught Pokémon
+- **Rare Encounters:** Notifications for rare Pokémon
+- **Possible Catches:** Details about available encounters
 
-**Shiny Starter** shows regular and shiny choices at supported starter selections and trades. Choose **No Shiny** to keep the generated Pokémon unchanged or **Make Shiny** for the displayed Pokémon. It is enabled by default and can be changed from the map's Tap Menu where supported.
+---
+
+### Shiny Starter
+
+Choose between regular and shiny Pokémon during supported starter selections and trades.
+
+- **No Shiny:** Keep the generated Pokémon unchanged
+- **Make Shiny:** Make the displayed Pokémon shiny
+- **Settings:** Enabled by default, configurable through the map's Tap Menu
+
+---
 
 ### Kirin
 
-Kirin compatibility applies to v8.0. For a checked game, open **Additional Options** and choose **Game Player**. Fanmake remembers the choice for each game. Add the same game folder to Kirin's library before launching it from Fanmake. Pokémon Rejuvenation has separate **JoiPlay Download** and **Kirin Download** options. Select the folder for your player in Fanmake.
+**Compatibility:** v8.0
 
-Kirin 0.4.0 can load an existing save from the game folder. [Kirin](https://www.playkirin.com/en/articles/kirin-0-4-0-news.html#save-files) usually writes new progress to `Kirin/Saved Games/<game title>`, so switching players can load an earlier save. Games with custom save systems may use a different location.
+**Setup**
 
-To move a save, close both players and back up both save folders. Copy the save file you want to the other player's save folder, keeping its filename and using matching game versions. Check your progress on **Continue** before saving again. In Rejuvenation v14, each edition keeps saves in its own `Save Data` folder.
+1. Open **Additional Options > Game Player**.
+2. Select **Kirin**.
+3. Add the same game folder to Kirin's library.
+4. Launch through Fanmake.
+
+Fanmake remembers your selected player for each game.
+
+**Save Locations**
+
+| Player | Save Location |
+| --- | --- |
+| JoiPlay | Game's configured save folder |
+| Kirin | `Kirin/Saved Games/<game title>` |
+| Rejuvenation v14 | Edition-specific `Save Data` folder |
+
+**Transferring Saves**
+
+1. Close both players and back up both save folders.
+2. Copy the desired save to the other player's save folder.
+3. Keep filenames and game versions matching.
+4. Verify progress using **Continue** before saving.
+
+**Notes**
+
+- Kirin 0.4.0 can read existing saves from the game folder.
+- Custom save systems may use different locations.
+- Rejuvenation offers separate **JoiPlay Download** and **Kirin Download** options.
+
+[Kirin Save Documentation](https://www.playkirin.com/en/articles/kirin-0-4-0-news.html#save-files)
+
+</details>
+
+<details>
+<summary><strong>Downloads & Resources</strong></summary>
 
 - [Game Downloads](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/blob/main/GAME_DOWNLOADS.md)
 - [Current Changelog](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases/latest)
 - [Roadmap](ROADMAP.md)
 
-Looking for another fangame to play? Browse [Eevee Expo's Completed Games](https://eeveeexpo.com/completed-games/).
+</details>
 
-## Install
+<details>
+<summary><strong>Installation & Setup</strong></summary>
+
+### Install
 
 1. Download the latest APK from [GitHub Releases](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases).
 2. Open the APK and allow installation if Android asks.
@@ -99,16 +182,22 @@ The correct folder normally contains `Game.ini`, `Data`, and `Graphics`.
 
 Versions shown on the Download page are the versions tested with the app. Nearby game versions may also work when their maps and core file structure have not changed.
 
-## Using the app
+<details>
+<summary><strong>Using the App</strong></summary>
 
 - **Maps** contains every supported game, installed-game filters, collections, search, setup, downloads, guides, repair, and live-map launch controls.
 - **Settings** separates hub behavior from universal map controls. Hub Settings includes library history, downloads, backup, restore, and recovery. Map Settings includes map display, markers, live details, and the overlay minimap.
 - **About** contains the app version, updates, project links, privacy details, and controls.
 - **Quick Launch** opens the selected map and starts the game in the saved player. On supported multi-screen devices, the game opens on the display opposite the map.
 
-Select a game to view its details. From there you can install or open it, repair its map setup, choose a different game folder, download the game, open its guide, or add it to collections. Removing an association does not delete the game or its files.
+Select a game to view its details. From there you can install or open it, repair its map setup, choose a different game folder, download the game, open its guide, or add it to collections.
 
-## Controls
+Removing an association does not delete the game or its files.
+
+</details>
+
+<details>
+<summary><strong>Controls</strong></summary>
 
 | Input | Action |
 | --- | --- |
@@ -120,30 +209,70 @@ Select a game to view its details. From there you can install or open it, repair
 | Pinch | Zoom a live map |
 | Drag | Pan a zoomed live map |
 
+</details>
 
-## Request a game map
+</details>
 
-Use **Request Game Map** at the top of the Maps page, or submit a request through [GitHub Issues](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/issues).
+<details>
+<summary><strong>Support & Development</strong></summary>
 
-## Privacy
+### Request a Game Map
+
+Want support for another Pokémon fangame?
+
+- **In-App:** Select **Request Game Map** at the top of the Maps page.
+- **GitHub:** Submit a request through [GitHub Issues](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/issues).
+
+---
+
+### Developer Toolkit
+
+Documentation for developers and contributors.
+
+- **Trackers:** Tracker formats and integration
+- **Installation:** Game installation methods
+- **Maps:** Map packs and entities
+- **Testing:** Test applications
+- **BattleDex:** Battle integration
+
+**Documentation**
+
+- [Developer Toolkit](DeveloperToolkit/README.md)
+- [BattleDex Integration Guide](DeveloperToolkit/14_BATTLEDEX.md)
+
+---
+
+### Project Cost & Source
+
+**Fanmake Pokémon Maps is free.**
+
+- **Pricing:** Originally considered a $1 to $5 one-time purchase for v5.0
+- **Decision:** Keep the application free, including future updates
+- **Source Code:** Complete source will be released when the project is finished
+- **Documentation:** The Developer Toolkit will continue receiving updates during development
+
+---
+
+### Support the Project
+
+Want to support continued development?
+
+- [Star this repository on GitHub](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
+- [Buy me a coffee](https://buymeacoffee.com/chimeragaming)
+
+</details>
+
+<details>
+<summary><strong>Privacy & Disclaimer</strong></summary>
+
+### Privacy
 
 Game folders and settings stay on your device. They are not uploaded. Internet access is used only for update checks and links that you choose to open.
 
-## Disclaimer
+### Disclaimer
 
-Fanmake Pokémon Maps is an unofficial fan-made companion. It is not affiliated with or endorsed by Nintendo, Game Freak, Creatures Inc., The Pokémon Company, or the developers of the supported fan games. Pokémon and related trademarks belong to their respective owners.
+Fanmake Pokémon Maps is an unofficial fan-made companion. It is not affiliated with or endorsed by Nintendo, Game Freak, Creatures Inc., The Pokémon Company, or the developers of the supported fan games.
 
-## Developer toolkit
+Pokémon and related trademarks belong to their respective owners.
 
-The Developer Toolkit documents the tracker format, game installation methods, map packs, entities, test applications, and BattleDex integration used by the application.
-
-- [Developer Toolkit](DeveloperToolkit/README.md)
-- [BattleDex integration guide](DeveloperToolkit/14_BATTLEDEX.md)
-
-## Project cost and source
-
-I considered charging $1 to $5 for version 5.0 and requiring a one-time payment check for future releases, with future updates included after payment. I decided to keep Fanmake Pokémon Maps free.
-
-When the project is finished, I will release the complete source. The current [Developer Toolkit](DeveloperToolkit/README.md) documents the integration system and will continue to be updated during development.
-
-Project support links: [Star this repository](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android) and [Buy me a coffee](https://buymeacoffee.com/chimeragaming).
+</details>

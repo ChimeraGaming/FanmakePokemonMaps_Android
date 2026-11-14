@@ -33,7 +33,7 @@ Current live release: **7.1** (build 68)
 | **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Orre** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 

@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 41 Games | 15 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 42 Games | 16 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -59,7 +59,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Lethalmon** | | | | | | | |
 | **Littleroot Researchers** | | | | | | | |
 | **Pokémon Mineral** | | | | | | | |
-| **Pokémon Old World Dawn** | | | | | | | |
+| **Pokémon Old World Dawn** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon - Paradise's Illusion** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pumpkaboo's Party** | | | | | | | |

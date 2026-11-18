@@ -33,6 +33,7 @@
 | Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.7z) | |
 | Pokémon Solar Eclipse | [English](https://eeveeexpo.com/threads/9048/) | v1.11.0 |
 | Pokémon Soulstones 2: Time Wardens | [English](https://www.pokecommunity.com/threads/pokemon-soulstones-2-time-wardens-post-game-released.501217/) | v2.05 |
+| Pokémon Tempered Expectations | [Windows Download](https://www.mediafire.com/file/p9wdi7n51j5ms0v/Tempered_Expectations.zip/file) | v1.0.0 |
 | Pokémon Unchosen | [English](https://aldrine.itch.io/pokemon-unchosen)<br>[French](https://aldrine.itch.io/pokemon-unchosen) | v1.6.5<br>v1.6.4 |
 | Pokémon Unbreakable Ties | [English](https://pokemonunbreakableties.com/download/)<br>[Spanish](https://www.mediafire.com/file/eynctfkz3yb89g0/Pokemon_Unbreakable_Ties_4.9.1_%2528ESP%2529.zip/file) | v4.9.1 |
 | Pokémon World Frontier | [Windows/Linux](https://www.mediafire.com/file/oj29czbk80pipdy/Pokemon_World_Frontier_v1.2.2_Windows_Linux.zip/file?action=check) | v1.2.2 |

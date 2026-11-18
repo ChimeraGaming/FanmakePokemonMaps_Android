@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 36 Games | 10 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 37 Games | 11 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -67,7 +67,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Reclamation** | | | | | | | |
 | **Pokémon Sunday** | | | | | | | |
 | **Pokémon Syvin** | | | | | | | |
-| **Pokémon Tempered Expectations** | | | | | | | |
+| **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon: The Rising Sun** | | | | | | | |
 | **Touhou Puppet Play: The Adventures of Ayaka** | | | | | | | |
 | **Tower of Ashes** | | | | | | | |

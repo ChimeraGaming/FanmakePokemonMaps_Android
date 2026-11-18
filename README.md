@@ -27,7 +27,10 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 32 Games | 6 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 35 Games | 9 New in v8.0!</h2></summary>
+
+7.x - 26 Games  
+6.x - 16 Games
 
 ### New in v8.0
 
@@ -35,7 +38,10 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
+| **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |

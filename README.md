@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 35 Games | 9 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 36 Games | 10 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -61,7 +61,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Mineral** | | | | | | | |
 | **Pokémon Old World Dawn** | | | | | | | |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon - Paradise's Illusion** | | | | | | | |
+| **Pokémon - Paradise's Illusion** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pumpkaboo's Party** | | | | | | | |
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Reclamation** | | | | | | | |

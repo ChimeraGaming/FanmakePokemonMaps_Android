@@ -7,7 +7,9 @@
 | A Farfetch'd Story 2 | [Windows Download](https://www.mediafire.com/file/8xwgeh8gtqli1pb/A_Farfetch%2527d_Story_2_v1.0.8.zip/file) | v1.0.8 |
 | Pokémon Añil/Indigo | [English](https://www.mediafire.com/file/4ml2qb1ldlo5h6k/Pokemon_Indigo_4.0.2.zip/file)<br>[Spanish](https://mega.nz/file/C3pxkJJQ#ra3IhRL_YPd1SL76jlMVMnLrtWmDpo3XNVdprPW8ACU) | v4.0.2<br>v4.12 |
 | Pokémon Conquer the Gauntlet | [English](https://drive.google.com/drive/folders/1IEu6T32xPCGMOb1V1_w__hH6dMaM4A1o) | v1.0.6 |
+| Pokémon Dark Horizon | [Windows Download](https://www.mediafire.com/file/txtsdxm4kz6oidf/Pokemon_Dark_Horizon.zip/file) | v1.0.18 |
 | Pokémon Decay | [English](https://www.mediafire.com/file/0dclcbpmhwu56i1/Pok%C3%A9mon+Decay+1.2.3.rar/file) | v1.2.3 |
+| Pokémon Deserted | [Base game + 1.1](https://www.mediafire.com/file/fbm31ucz6yvcvdz/Pok%25C3%25A9mon_Deserted_%2528Base_%252B_1.1_Update%2529.rar/file)<br>[1.4 update](https://www.mediafire.com/file/w68t9b6me69jdze/Pok%25C3%25A9mon_Deserted_1.4_Update.rar/file) | v1.4 |
 | Pokémon Fire Ash | [Download](https://mega.nz/file/F2QV2aSR#lRU_hYarsqe5ehE7YpkkNV3oSJAVzOPNAxsDzmVy00A) | v3.7.1 |
 | Pokémon Gadir Deluxe | [English](https://www.mediafire.com/file/jvx27lbfp7e6srs/Pok%C3%A9mon+Gadir+Deluxe+ENG+v1.3.zip/file) | v1.3 |
 | Pokémon GS Vitro | [Download](https://www.mediafire.com/file/x98titoufputuxl/GS_Vitro%255B1.1.1%255D.zip/file) | v1.1.4 |
@@ -16,6 +18,7 @@
 | Pokémon Infinite Fusion | [English](https://www.mediafire.com/file/sv2pu6lzofwbem7/InfiniteFusionAndroid.zip/file) | v6.2.4 |
 | Pokémon Infinite Fusion 2: Hoenn | [English](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file)<br>[French](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file) | v1.2.2 |
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |
+| Pokémon Kronos | [Windows Download](https://www.mediafire.com/file/et633hec8i5epj7/Pok%E9mon_Kronos_Patch_v_1.6.rar/file) | v1.6 |
 | Pokémon Myth | [Download](https://www.mediafire.com/file/pfb200uk53diizh/Pokemon-Myth.zip/file) | |
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
 | Pokémon Ópalo | [English](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file)<br>[Spanish](https://www.mediafire.com/file/xcbhf3swgnma62f/Pokemon+Opalo.rar/file) | |
@@ -38,6 +41,8 @@
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
+
+For [Pokémon Deserted 1.4](https://eeveeexpo.com/threads/5344/), extract the base game, then copy the update's Data folder into it and replace the matching files.
 
 
 Fanmake Pokémon Maps does not host these games. Each link opens the download page supplied by the game's developer or community.

@@ -36,14 +36,41 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
+| **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
+| **Pokémon: A Star in the Desert** | | | | | | | |
+| **Aipom's Great Pirate Adventure** | | | | | | | |
+| **Pokémon and the Last Wish** | | | | | | | |
+| **Pokémon and the Last Wish: Part II** | | | | | | | |
+| **Pokémon Bushido** | | | | | | | |
+| **Capsule Quest** | | | | | | | |
+| **Pokémon: Chaos in Vesita** | | | | | | | |
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Dark Knight** | | | | | | | |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
+| **Pokémon Edge Rising** | | | | | | | |
+| **Pokémon Fable** | | | | | | | |
+| **Pokémon Forecast** | | | | | | | |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Infinity** | | | | | | | |
+| **Pokémon Keishou** | | | | | | | |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
+| **Kyogre's Day Out** | | | | | | | |
+| **Lethalmon** | | | | | | | |
+| **Littleroot Researchers** | | | | | | | |
+| **Pokémon Mineral** | | | | | | | |
+| **Pokémon Old World Dawn** | | | | | | | |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon - Paradise's Illusion** | | | | | | | |
+| **Pumpkaboo's Party** | | | | | | | |
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Reclamation** | | | | | | | |
+| **Pokémon Sunday** | | | | | | | |
+| **Pokémon Syvin** | | | | | | | |
+| **Pokémon Tempered Expectations** | | | | | | | |
+| **Pokémon: The Rising Sun** | | | | | | | |
+| **Touhou Puppet Play: The Adventures of Ayaka** | | | | | | | |
+| **Tower of Ashes** | | | | | | | |
 | **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 
 ### Previously Supported Games

@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 37 Games | 11 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 41 Games | 15 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -46,16 +46,16 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Capsule Quest** | | | | | | | |
 | **Pokémon: Chaos in Vesita** | | | | | | | |
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Dark Knight** | | | | | | | |
+| **Pokémon Dark Knight** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Edge Rising** | | | | | | | |
 | **Pokémon Fable** | | | | | | | |
-| **Pokémon Forecast** | | | | | | | |
+| **Pokémon Forecast** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Infinity** | | | | | | | |
 | **Pokémon Keishou** | | | | | | | |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
-| **Kyogre's Day Out** | | | | | | | |
+| **Kyogre's Day Out**<sup>2</sup> | | | N/A | N/A | N/A | N/A | N/A |
 | **Lethalmon** | | | | | | | |
 | **Littleroot Researchers** | | | | | | | |
 | **Pokémon Mineral** | | | | | | | |
@@ -64,12 +64,12 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon - Paradise's Illusion** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pumpkaboo's Party** | | | | | | | |
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Reclamation** | | | | | | | |
+| **Pokémon Reclamation** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Sunday** | | | | | | | |
 | **Pokémon Syvin** | | | | | | | |
 | **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon: The Rising Sun** | | | | | | | |
-| **Touhou Puppet Play: The Adventures of Ayaka** | | | | | | | |
+| **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Tower of Ashes** | | | | | | | |
 | **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 
@@ -105,6 +105,8 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 <sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.
+
+<sup>2</sup> Kyogre's Day Out uses PSDK and cannot load in the current JoiPlay or Kirin releases.
 
 </details>
 

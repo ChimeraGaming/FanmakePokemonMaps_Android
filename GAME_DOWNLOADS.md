@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | Pokemon Africanvs | [English](https://www.pokeharbor.com/2024/08/pokemon-africanvs/#google_vignette)<br>[Spanish](https://www.pokeharbor.com/2024/08/pokemon-africanvs/#google_vignette) | Definitive Edition |
 | A Farfetch'd Story | [Windows Download](https://www.mediafire.com/file/is7pwxmzut8ag3v/A_Farfetch%2527d_Story_v1.5.zip/file) | v1.5 |
+| Pokémon: A Star in the Desert | [Windows Download](https://www.mediafire.com/file/mgddhs1k0sedfpl/Pokemon%2B-%2BA%2BStar%2Bin%2Bthe%2BDesert%2Bv1.4.7z/file) | JAM v1.4 |
 | A Farfetch'd Story 2 | [Windows Download](https://www.mediafire.com/file/8xwgeh8gtqli1pb/A_Farfetch%2527d_Story_2_v1.0.8.zip/file) | v1.0.8 |
 | Pokémon Añil/Indigo | [English](https://www.mediafire.com/file/4ml2qb1ldlo5h6k/Pokemon_Indigo_4.0.2.zip/file)<br>[Spanish](https://mega.nz/file/C3pxkJJQ#ra3IhRL_YPd1SL76jlMVMnLrtWmDpo3XNVdprPW8ACU) | v4.0.2<br>v4.12 |
 | Pokémon Conquer the Gauntlet | [English](https://drive.google.com/drive/folders/1IEu6T32xPCGMOb1V1_w__hH6dMaM4A1o) | v1.0.6 |
@@ -22,6 +23,7 @@
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |
 | Pokémon Kronos | [Windows Download](https://www.mediafire.com/file/et633hec8i5epj7/Pok%E9mon_Kronos_Patch_v_1.6.rar/file) | v1.6 |
 | Kyogre's Day Out | [Windows Download](https://www.mediafire.com/file/m73x0iccha3dkaz/Kyogre%2527s_day_out.rar/file) | v2.0 |
+| Pokémon Mineral | [Windows Download](https://mega.nz/file/2Z4UlQ6Q#biz1a99LX7tD6n-Msvv95eLYVklg1R6qPQKsDyiGUTw) | v1.12 |
 | Pokémon Myth | [Download](https://www.mediafire.com/file/pfb200uk53diizh/Pokemon-Myth.zip/file) | |
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |
 | Pokémon Old World Dawn | [English Windows Download](https://mega.nz/file/pnBiDB6D#c9Z6q8yTntKY0ZW_JPPnL_V7uxulgp5UC0VAf5F3FTg) | English |
@@ -40,6 +42,7 @@
 | Pokémon Soulstones 2: Time Wardens | [English](https://www.pokecommunity.com/threads/pokemon-soulstones-2-time-wardens-post-game-released.501217/) | v2.05 |
 | Pokémon Tempered Expectations | [Windows Download](https://www.mediafire.com/file/p9wdi7n51j5ms0v/Tempered_Expectations.zip/file) | v1.0.0 |
 | Touhou Puppet Play: The Adventures of Ayaka | [Windows Download](https://mega.nz/file/lgsR1DiQ#F95HuB62LPJBcYuG7X2fIKgXn7vGDYmems3pnFszI_s) | v1.0.0 + Patch 1 |
+| Tower of Ashes | [Windows Download](https://www.mediafire.com/file/9yyy5mksyg7bn9h/TowerOfAshes_v1.0.5.zip/file) | v1.0.5 |
 | Pokémon Unchosen | [English](https://aldrine.itch.io/pokemon-unchosen)<br>[French](https://aldrine.itch.io/pokemon-unchosen) | v1.6.5<br>v1.6.4 |
 | Pokémon Unbreakable Ties | [English](https://pokemonunbreakableties.com/download/)<br>[Spanish](https://www.mediafire.com/file/eynctfkz3yb89g0/Pokemon_Unbreakable_Ties_4.9.1_%2528ESP%2529.zip/file) | v4.9.1 |
 | Pokémon World Frontier | [Windows/Linux](https://www.mediafire.com/file/oj29czbk80pipdy/Pokemon_World_Frontier_v1.2.2_Windows_Linux.zip/file?action=check) | v1.2.2 |

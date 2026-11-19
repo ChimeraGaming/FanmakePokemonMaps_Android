@@ -56,7 +56,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Keishou** | | | | | | | |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Kyogre's Day Out**<sup>2</sup> | | | N/A | N/A | N/A | N/A | N/A |
-| **Lethalmon** | | | | | | | |
+| **Lethalmon**<sup>2</sup> | | | | | | N/A | N/A |
 | **Littleroot Researchers** | | | | | | | |
 | **Pokémon Mineral** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Old World Dawn** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
@@ -106,7 +106,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 
 <sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.
 
-<sup>2</sup> Kyogre's Day Out and Pokémon: A Star in the Desert use PSDK and cannot load in the current JoiPlay or Kirin releases.
+<sup>2</sup> Kyogre's Day Out, Pokémon: A Star in the Desert and Lethalmon use PSDK and cannot load in the current JoiPlay or Kirin releases.
 
 </details>
 

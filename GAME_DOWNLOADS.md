@@ -7,6 +7,7 @@
 | Pokémon: A Star in the Desert | [Windows Download](https://www.mediafire.com/file/mgddhs1k0sedfpl/Pokemon%2B-%2BA%2BStar%2Bin%2Bthe%2BDesert%2Bv1.4.7z/file) | JAM v1.4 |
 | A Farfetch'd Story 2 | [Windows Download](https://www.mediafire.com/file/8xwgeh8gtqli1pb/A_Farfetch%2527d_Story_2_v1.0.8.zip/file) | v1.0.8 |
 | Pokémon Añil/Indigo | [English](https://www.mediafire.com/file/4ml2qb1ldlo5h6k/Pokemon_Indigo_4.0.2.zip/file)<br>[Spanish](https://mega.nz/file/C3pxkJJQ#ra3IhRL_YPd1SL76jlMVMnLrtWmDpo3XNVdprPW8ACU) | v4.0.2<br>v4.12 |
+| Pokémon: Chaos in Vesita | [English/German Windows Download](https://www.mediafire.com/file/rxzkpssp0t9imdq/Pok%25C3%25A9mon_Chaos_in_Vesita_%25281.1.5%2529.zip/file) | v1.1.5 |
 | Pokémon Conquer the Gauntlet | [English](https://drive.google.com/drive/folders/1IEu6T32xPCGMOb1V1_w__hH6dMaM4A1o) | v1.0.6 |
 | Pokémon Dark Horizon | [Windows Download](https://www.mediafire.com/file/txtsdxm4kz6oidf/Pokemon_Dark_Horizon.zip/file) | v1.0.18 |
 | Pokémon Dark Knight | [Windows Download](https://drive.google.com/file/d/1JVlqh6fUq97pIkHZIVqI_yu-NXFRYdgR/view) | v1.5 |

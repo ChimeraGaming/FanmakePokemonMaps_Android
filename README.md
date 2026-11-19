@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 44 Games | 18 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 45 Games | 19 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -53,7 +53,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Forecast** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Infinity** | | | | | | | |
-| **Pokémon Keishou** | | | | | | | |
+| **Pokémon Keishou** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Kyogre's Day Out**<sup>2</sup> | | | N/A | N/A | N/A | N/A | N/A |
 | **Lethalmon**<sup>2</sup> | | | | | | N/A | N/A |

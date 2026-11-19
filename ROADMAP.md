@@ -87,6 +87,7 @@
 
 - Added Kirin alongside JoiPlay, with a saved player choice for each compatible game.
 - Added a Kirin download button next to JoiPlay in the Hub.
+- Added 19 new games!
 
 </details>
 

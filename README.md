@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 42 Games | 16 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 44 Games | 18 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -38,7 +38,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
-| **Pokémon: A Star in the Desert** | | | | | | | |
+| **Pokémon: A Star in the Desert**<sup>2</sup> | | | | | | N/A | N/A |
 | **Aipom's Great Pirate Adventure** | | | | | | | |
 | **Pokémon and the Last Wish** | | | | | | | |
 | **Pokémon and the Last Wish: Part II** | | | | | | | |
@@ -58,7 +58,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Kyogre's Day Out**<sup>2</sup> | | | N/A | N/A | N/A | N/A | N/A |
 | **Lethalmon** | | | | | | | |
 | **Littleroot Researchers** | | | | | | | |
-| **Pokémon Mineral** | | | | | | | |
+| **Pokémon Mineral** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Old World Dawn** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon - Paradise's Illusion** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
@@ -70,7 +70,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon: The Rising Sun** | | | | | | | |
 | **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Tower of Ashes** | | | | | | | |
+| **Tower of Ashes** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 
 ### Previously Supported Games
@@ -106,7 +106,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 
 <sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.
 
-<sup>2</sup> Kyogre's Day Out uses PSDK and cannot load in the current JoiPlay or Kirin releases.
+<sup>2</sup> Kyogre's Day Out and Pokémon: A Star in the Desert use PSDK and cannot load in the current JoiPlay or Kirin releases.
 
 </details>
 

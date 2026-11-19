@@ -34,6 +34,7 @@
 | Pokémon - Paradise's Illusion | [Windows Download](https://www.mediafire.com/file/l73ws83tu5qiefy/Pokemon_-_Paradise%2527s_Illusion_v1.0.6.rar/file) | v1.0.6 |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
 | Pokémon Project Vanguard | [Windows Download](https://mega.nz/file/xoYRTI6Z#Kak_IArU2YvHWnrB2dZRWSTretVfLOm8HNk9i_vzzLM) | v4.0.14 |
+| Pumpkaboo's Party | [Windows Download](https://www.mediafire.com/file/jjol198qoycvq6z/Pumpkaboo%2527s_Party_v1.0.3.zip/file) | v1.0.3 |
 | Pokémon Realidea System | [Download](https://mega.nz/file/A4MEwKIb#lyK3r1C49HfNmQuDwaGRJ6OrALOM9rHc84IZpqf-Rt4) | v4.1 |
 | Pokémon Reclamation | [Windows Download](https://drive.proton.me/urls/G1D6KG96XG#aeuhajZyxvM0) | v1.0.0 |
 | Pokémon Rejuvenation | [JoiPlay Download](https://pkmnfan.games/rejuv-joiplay-mega)<br>[Kirin Download](https://pkmnfan.games/rejuv-kirin-mega) | v14.0 / v14.0.28 |

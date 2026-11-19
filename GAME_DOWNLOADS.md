@@ -21,8 +21,10 @@
 | Pokémon Infinite Fusion | [English](https://www.mediafire.com/file/sv2pu6lzofwbem7/InfiniteFusionAndroid.zip/file) | v6.2.4 |
 | Pokémon Infinite Fusion 2: Hoenn | [English](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file)<br>[French](https://www.mediafire.com/file/59pg4bovl4sdpg2/InfiniteFusion_Hoenn_1_2_2_Android_.zip/file) | v1.2.2 |
 | Pokémon Insurgence | [English](https://p-insurgence.com/releases/1.2.7/Pokemon%20Insurgence%201.2.7%20Core.zip) | v1.2.7 Core |
+| Pokémon Keishou | [Windows Download](https://mega.nz/file/U6MRjRQR#8qmWmLxR7ujATZCaY_Kfz5B3hliAN7I_bcow-14Hq2k) | v2.06.2 |
 | Pokémon Kronos | [Windows Download](https://www.mediafire.com/file/et633hec8i5epj7/Pok%E9mon_Kronos_Patch_v_1.6.rar/file) | v1.6 |
 | Kyogre's Day Out | [Windows Download](https://www.mediafire.com/file/m73x0iccha3dkaz/Kyogre%2527s_day_out.rar/file) | v2.0 |
+| Lethalmon | [Windows Download](https://github.com/bfloo/lethalmon-launcher/releases/download/1.7.4/game.zip) | v1.7.4 |
 | Pokémon Mineral | [Windows Download](https://mega.nz/file/2Z4UlQ6Q#biz1a99LX7tD6n-Msvv95eLYVklg1R6qPQKsDyiGUTw) | v1.12 |
 | Pokémon Myth | [Download](https://www.mediafire.com/file/pfb200uk53diizh/Pokemon-Myth.zip/file) | |
 | Pokémon Nova | [English](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Spanish](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY)<br>[Chinese](https://mega.nz/file/011xjaSY#ymK5IN-NK5lLWS1AYG2qVzyQEKrjou9GhJBfM3EADJY) | v2.0 |

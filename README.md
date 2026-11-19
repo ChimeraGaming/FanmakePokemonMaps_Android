@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 46 Games | 20 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 47 Games | 21 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -44,7 +44,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon and the Last Wish: Part II** | | | | | | | |
 | **Pokémon Bushido** | | | | | | | |
 | **Capsule Quest** | | | | | | | |
-| **Pokémon: Chaos in Vesita** | | | | | | | |
+| **Pokémon: Chaos in Vesita** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Knight** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |

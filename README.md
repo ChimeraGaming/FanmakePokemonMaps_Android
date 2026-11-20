@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 47 Games | 21 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 50 Games | 24 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -38,7 +38,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
-| **Pokémon: A Star in the Desert**<sup>2</sup> | | | | | | N/A | N/A |
+| **Pokémon: A Star in the Desert**<sup>1</sup> | 8.0 | 8.0 | 8.0 | N/A | | N/A | N/A |
 | **Aipom's Great Pirate Adventure** | | | | | | | |
 | **Pokémon and the Last Wish** | | | | | | | |
 | **Pokémon and the Last Wish: Part II** | | | | | | | |
@@ -55,8 +55,8 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Infinity** | | | | | | | |
 | **Pokémon Keishou** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
-| **Kyogre's Day Out**<sup>2</sup> | | | N/A | N/A | N/A | N/A | N/A |
-| **Lethalmon**<sup>2</sup> | | | | | | N/A | N/A |
+| **Kyogre's Day Out**<sup>1</sup> | 8.0 | 8.0 | N/A | N/A | N/A | N/A | N/A |
+| **Lethalmon**<sup>1</sup> | 8.0 | 8.0 | 8.0 | | | N/A | N/A |
 | **Littleroot Researchers** | | | | | | | |
 | **Pokémon Mineral** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Old World Dawn** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
@@ -104,9 +104,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | Pokémon World Frontier | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-<sup>1</sup> Pokémon Sacred Phoenix launches through Fanmake's built-in player.
-
-<sup>2</sup> Kyogre's Day Out, Pokémon: A Star in the Desert and Lethalmon use PSDK and cannot load in the current JoiPlay or Kirin releases.
+<sup>1</sup> Pokémon Sacred Phoenix, Kyogre's Day Out, Pokémon: A Star in the Desert and Lethalmon launch through Fanmake's built-in player.
 
 </details>
 

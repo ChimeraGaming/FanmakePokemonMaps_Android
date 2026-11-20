@@ -6,6 +6,11 @@
 | A Farfetch'd Story | [Windows Download](https://www.mediafire.com/file/is7pwxmzut8ag3v/A_Farfetch%2527d_Story_v1.5.zip/file) | v1.5 |
 | Pokémon: A Star in the Desert | [Windows Download](https://www.mediafire.com/file/mgddhs1k0sedfpl/Pokemon%2B-%2BA%2BStar%2Bin%2Bthe%2BDesert%2Bv1.4.7z/file) | JAM v1.4 |
 | A Farfetch'd Story 2 | [Windows Download](https://www.mediafire.com/file/8xwgeh8gtqli1pb/A_Farfetch%2527d_Story_2_v1.0.8.zip/file) | v1.0.8 |
+| Aipom's Great Pirate Adventure | [Windows Download](https://www.mediafire.com/file/83x8arfgl0gokpz/Aipoms_Great_Pirate_Adventure_v1.0.3.zip/file) | v1.0.3 |
+| Littleroot Researchers | [Windows Download](https://www.mediafire.com/file/7ryp23aro7g64vk/Littleroot_Researchers_v1.10.zip/file) | v1.10 |
+| Pokémon and the Last Wish | [Windows Download](https://www.mediafire.com/file/obeyatkzzz5hpvj/Pokemon+and+the+Last+Wish.zip/file) | v1.2 |
+| Pokémon and the Last Wish: Part II | [Windows Download](https://www.mediafire.com/file/m0t1y2ko7t3kju6/Pokemon+and+the+Last+Wish+Part+II+(v1.0.8).zip/file) | v1.0.8 |
+| Pokémon Bushido | [Windows Download](https://mega.nz/file/Y4kw0aIY#ESmgRtsfE2o41KC09caiktE7laZXn9RCtlGySqrJkeo) | v1.1.12 |
 | Pokémon Añil/Indigo | [English](https://www.mediafire.com/file/4ml2qb1ldlo5h6k/Pokemon_Indigo_4.0.2.zip/file)<br>[Spanish](https://mega.nz/file/C3pxkJJQ#ra3IhRL_YPd1SL76jlMVMnLrtWmDpo3XNVdprPW8ACU) | v4.0.2<br>v4.12 |
 | Pokémon: Chaos in Vesita | [English/German Windows Download](https://www.mediafire.com/file/rxzkpssp0t9imdq/Pok%25C3%25A9mon_Chaos_in_Vesita_%25281.1.5%2529.zip/file) | v1.1.5 |
 | Pokémon Conquer the Gauntlet | [English](https://drive.google.com/drive/folders/1IEu6T32xPCGMOb1V1_w__hH6dMaM4A1o) | v1.0.6 |
@@ -44,6 +49,7 @@
 | Pokémon Sacred Phoenix | [Download](https://www.sacredphoenix.fr/res/Telechargements/Fan-game/Sacred_Phoenix.7z) | |
 | Pokémon Solar Eclipse | [English](https://eeveeexpo.com/threads/9048/) | v1.11.0 |
 | Pokémon Soulstones 2: Time Wardens | [English](https://www.pokecommunity.com/threads/pokemon-soulstones-2-time-wardens-post-game-released.501217/) | v2.05 |
+| Pokémon Syvin | [Windows Download](https://www.mediafire.com/file/v2hahb9mox0godf/Pokemon_Syvin_v1.1.zip/file) | v1.1 |
 | Pokémon Tempered Expectations | [Windows Download](https://www.mediafire.com/file/p9wdi7n51j5ms0v/Tempered_Expectations.zip/file) | v1.0.0 |
 | Touhou Puppet Play: The Adventures of Ayaka | [Windows Download](https://mega.nz/file/lgsR1DiQ#F95HuB62LPJBcYuG7X2fIKgXn7vGDYmems3pnFszI_s) | v1.0.0 + Patch 1 |
 | Tower of Ashes | [Windows Download](https://www.mediafire.com/file/9yyy5mksyg7bn9h/TowerOfAshes_v1.0.5.zip/file) | v1.0.5 |

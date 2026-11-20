@@ -54,6 +54,7 @@
 | Touhou Puppet Play: The Adventures of Ayaka | [Windows Download](https://mega.nz/file/lgsR1DiQ#F95HuB62LPJBcYuG7X2fIKgXn7vGDYmems3pnFszI_s) | v1.0.0 + Patch 1 |
 | Tower of Ashes | [Windows Download](https://www.mediafire.com/file/9yyy5mksyg7bn9h/TowerOfAshes_v1.0.5.zip/file) | v1.0.5 |
 | Pokémon Unchosen | [English](https://aldrine.itch.io/pokemon-unchosen)<br>[French](https://aldrine.itch.io/pokemon-unchosen) | v1.6.5<br>v1.6.4 |
+| Pokémon: The Rising Sun | [Windows Download](https://www.mediafire.com/file/819xn7ck4xowcq5/The+Rising+Sun+v1.3b.zip/file) | v1.3b |
 | Pokémon Unbreakable Ties | [English](https://pokemonunbreakableties.com/download/)<br>[Spanish](https://www.mediafire.com/file/eynctfkz3yb89g0/Pokemon_Unbreakable_Ties_4.9.1_%2528ESP%2529.zip/file) | v4.9.1 |
 | Pokémon World Frontier | [Windows/Linux](https://www.mediafire.com/file/oj29czbk80pipdy/Pokemon_World_Frontier_v1.2.2_Windows_Linux.zip/file?action=check) | v1.2.2 |
 | Pokémon Xenoverse | [Developer source](https://gitlab.com/weedleteam/Xenoverse-Source/-/tree/main/Xenoverse?ref_type=heads) | v1.5.5 |

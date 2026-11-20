@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 50 Games | 24 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 56 Games | 30 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -39,10 +39,10 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **Pokémon: A Star in the Desert**<sup>1</sup> | 8.0 | 8.0 | 8.0 | N/A | | N/A | N/A |
-| **Aipom's Great Pirate Adventure** | | | | | | | |
-| **Pokémon and the Last Wish** | | | | | | | |
-| **Pokémon and the Last Wish: Part II** | | | | | | | |
-| **Pokémon Bushido** | | | | | | | |
+| **Aipom's Great Pirate Adventure** | 8.0 | 8.0 | 8.0 | N/A | N/A | | 8.0 |
+| **Pokémon and the Last Wish** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon and the Last Wish: Part II** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Bushido** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Capsule Quest** | | | | | | | |
 | **Pokémon: Chaos in Vesita** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
@@ -57,7 +57,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Kyogre's Day Out**<sup>1</sup> | 8.0 | 8.0 | N/A | N/A | N/A | N/A | N/A |
 | **Lethalmon**<sup>1</sup> | 8.0 | 8.0 | 8.0 | | | N/A | N/A |
-| **Littleroot Researchers** | | | | | | | |
+| **Littleroot Researchers** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Mineral** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Old World Dawn** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
@@ -66,7 +66,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Reclamation** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Sunday** | | | | | | | |
-| **Pokémon Syvin** | | | | | | | |
+| **Pokémon Syvin** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon: The Rising Sun** | | | | | | | |
 | **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |

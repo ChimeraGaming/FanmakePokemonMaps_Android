@@ -66,7 +66,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Realidea System** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Reclamation** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Sunday** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Syvin** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Syvin** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon: The Rising Sun** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |

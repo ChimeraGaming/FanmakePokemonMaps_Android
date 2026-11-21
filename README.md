@@ -40,8 +40,8 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **Pokémon: A Star in the Desert**<sup>1</sup> | 8.0 | 8.0 | 8.0 | N/A | 8.0 | N/A | N/A |
 | **Aipom's Great Pirate Adventure** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
-| **Pokémon and the Last Wish** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon and the Last Wish: Part II** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon and the Last Wish** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon and the Last Wish: Part II** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Bushido** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Capsule Quest** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon: Chaos in Vesita** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |

@@ -58,7 +58,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Kyogre's Day Out**<sup>1</sup> | 8.0 | 8.0 | N/A | N/A | N/A | N/A | N/A |
 | **Lethalmon**<sup>1</sup> | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | N/A | N/A |
 | **Littleroot Researchers** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Mineral** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Mineral** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Old World Dawn** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon - Paradise's Illusion** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
@@ -70,7 +70,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon: The Rising Sun** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Tower of Ashes** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Tower of Ashes** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 
 ### Previously Supported Games

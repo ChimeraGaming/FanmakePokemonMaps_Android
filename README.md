@@ -52,7 +52,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Fable** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Forecast** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Infinity** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Infinity** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Keishou** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Kyogre's Day Out**<sup>1</sup> | 8.0 | 8.0 | N/A | N/A | N/A | N/A | N/A |

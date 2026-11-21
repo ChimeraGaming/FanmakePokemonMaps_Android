@@ -43,8 +43,8 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon and the Last Wish** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon and the Last Wish: Part II** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Bushido** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Capsule Quest** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
-| **Pokémon: Chaos in Vesita** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Capsule Quest** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
+| **Pokémon: Chaos in Vesita** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Knight** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |

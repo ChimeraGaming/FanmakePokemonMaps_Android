@@ -27,7 +27,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 ---
 
 <details open>
-<summary><h2>Supported Games - 60 Games | 34 New in v8.0!</h2></summary>
+<summary><h2>Supported Games - 61 Games | 35 New in v8.0!</h2></summary>
 
 7.x - 26 Games  
 6.x - 16 Games
@@ -49,7 +49,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Dark Knight** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Edge Rising** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Fable** | | | | | | | |
+| **Pokémon Fable** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Forecast** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Infinity** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |

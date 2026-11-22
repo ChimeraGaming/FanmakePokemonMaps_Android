@@ -48,7 +48,7 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Knight** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
-| **Pokémon Edge Rising** | 8.0 | | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Edge Rising** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Fable** | 8.0 | | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Forecast** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |

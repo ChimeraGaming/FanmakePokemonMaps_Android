@@ -29,79 +29,73 @@ The interface supports dual-screen handhelds such as the AYN Thor and compatible
 <details open>
 <summary><h2>Supported Games - 62 Games | 36 New in v8.0!</h2></summary>
 
+8.x - 62 Games  
 7.x - 26 Games  
 6.x - 16 Games
-
-### New in v8.0
 
 | Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **A Farfetch'd Story** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **A Farfetch'd Story 2** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **Pokémon: A Star in the Desert**<sup>1</sup> | 8.0 | 8.0 | 8.0 | N/A | 8.0 | N/A | N/A |
+| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | **Aipom's Great Pirate Adventure** | 8.0 | 8.0 | 8.0 | N/A | N/A | 8.0 | 8.0 |
 | **Pokémon and the Last Wish** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon and the Last Wish: Part II** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Bushido** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Capsule Quest** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon: Chaos in Vesita** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | **Pokémon Dark Horizon** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Dark Knight** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Deserted** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Pokémon Edge Rising** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Fable** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
+| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Forecast** | 8.0 | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 |
+| Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Hydro Bliss** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Infinity** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | **Pokémon Keishou** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Kronos** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
 | **Kyogre's Day Out**<sup>1</sup> | 8.0 | 8.0 | N/A | N/A | N/A | N/A | N/A |
 | **Lethalmon**<sup>1</sup> | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | N/A | N/A |
 | **Littleroot Researchers** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Mineral** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Old World Dawn** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pokémon Orre** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon - Paradise's Illusion** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Pumpkaboo's Party** | 8.0 | 8.0 | N/A | N/A | N/A | 8.0 | 8.0 |
 | **Pokémon Realidea System** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | **Pokémon Reclamation** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Sunday** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Syvin** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon: The Rising Sun** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
-| **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Tower of Ashes** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-| **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
-
-### Previously Supported Games
-
-| Game | Maps | All Sprites | BattleDex | Shiny Starter | Wild Instincts | JoiPlay | Kirin |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Pokémon Africanvs | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Añil/Indigo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Conquer the Gauntlet | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Decay | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Fire Ash | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Gadir Deluxe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon GS Vitro | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Hero Legacy | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Infinite Fusion 2: Hoenn | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Insurgence | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
-| Pokémon Myth | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Nova | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Ópalo | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| PokéMortals | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pokémon Project Vanguard | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Rejuvenation Pt.2 - Where Love Lies | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Re:Union | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
 | Pokémon Sacred Phoenix<sup>1</sup> | ✓ | ✓ | ✓ | ✓ | ✓ | N/A | N/A |
 | Pokémon Solar Eclipse | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Soulstones 2: Time Wardens | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Pokémon Sunday** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Syvin** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon Tempered Expectations** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Pokémon: The Rising Sun** | 8.0 | 8.0 | 8.0 | N/A | 8.0 | 8.0 | 8.0 |
+| **Touhou Puppet Play: The Adventures of Ayaka** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
+| **Tower of Ashes** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Unbreakable Ties | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Pokémon Unchosen | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | N/A |
 | Pokémon World Frontier | ✓ | ✓ | ✓ | N/A | ✓ | ✓ | ✓ |
+| **Pokémon Xenoverse** | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 | 8.0 |
 | Pokémon Z | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 <sup>1</sup> Pokémon Sacred Phoenix, Kyogre's Day Out, Pokémon: A Star in the Desert and Lethalmon launch through Fanmake's built-in player.

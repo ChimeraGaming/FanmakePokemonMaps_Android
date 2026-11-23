@@ -17,7 +17,7 @@
 | Pokémon Dark Horizon | [Windows Download](https://www.mediafire.com/file/txtsdxm4kz6oidf/Pokemon_Dark_Horizon.zip/file) | v1.0.18 |
 | Pokémon Dark Knight | [Windows Download](https://drive.google.com/file/d/1JVlqh6fUq97pIkHZIVqI_yu-NXFRYdgR/view) | v1.5 |
 | Pokémon Decay | [English](https://www.mediafire.com/file/0dclcbpmhwu56i1/Pok%C3%A9mon+Decay+1.2.3.rar/file) | v1.2.3 |
-| Pokémon Deserted | [Base game + 1.1](https://www.mediafire.com/file/fbm31ucz6yvcvdz/Pok%25C3%25A9mon_Deserted_%2528Base_%252B_1.1_Update%2529.rar/file)<br>[1.4 update](https://www.mediafire.com/file/w68t9b6me69jdze/Pok%25C3%25A9mon_Deserted_1.4_Update.rar/file) | v1.4 |
+| Pokémon Deserted | [Windows Download](https://mega.nz/file/pooB1boK#5M8PxDDtNTFZ1ELeB4YZbRtlvD4XCu1mpjbRRSDWtkA) | v1.4 |
 | Pokémon Fire Ash | [Download](https://mega.nz/file/F2QV2aSR#lRU_hYarsqe5ehE7YpkkNV3oSJAVzOPNAxsDzmVy00A) | v3.7.1 |
 | Pokémon Forecast | [Windows Download](https://mega.nz/file/zU1F0BqT#1yds_A-B3IAFexCmjAsVl8GoY0L4YKqZ3qlLw98Ex3w) | v1.1 |
 | Pokémon Gadir Deluxe | [English](https://www.mediafire.com/file/jvx27lbfp7e6srs/Pok%C3%A9mon+Gadir+Deluxe+ENG+v1.3.zip/file) | v1.3 |
@@ -40,7 +40,7 @@
 | Pokémon Orre | [Windows Download](https://drive.google.com/file/d/1cs-xUZqPWaxks7Ry20W_HXRZcB45_4NY/view) | v2.1.2 |
 | Pokémon - Paradise's Illusion | [Windows Download](https://www.mediafire.com/file/l73ws83tu5qiefy/Pokemon_-_Paradise%2527s_Illusion_v1.0.6.rar/file) | v1.0.6 |
 | PokéMortals | [English](https://www.mediafire.com/file/r8az51ytk5u29gg/Pokemortals_v77_Release.zip/file) | v77 (1.1.77) |
-| Pokémon Project Vanguard | [Windows Download](https://mega.nz/file/xoYRTI6Z#Kak_IArU2YvHWnrB2dZRWSTretVfLOm8HNk9i_vzzLM) | v4.0.14 |
+| Pokémon Project Vanguard | [Windows Download](https://mega.nz/file/99pTWQRS#bKELLXzm_0f4gbJSmLh5Oeqkn9oRUsuljX4o1A2FBns) | v4.0.14 |
 | Pumpkaboo's Party | [Windows Download](https://www.mediafire.com/file/jjol198qoycvq6z/Pumpkaboo%2527s_Party_v1.0.3.zip/file) | v1.0.3 |
 | Pokémon Realidea System | [Download](https://mega.nz/file/A4MEwKIb#lyK3r1C49HfNmQuDwaGRJ6OrALOM9rHc84IZpqf-Rt4) | v4.1 |
 | Pokémon Reclamation | [Windows Download](https://drive.proton.me/urls/G1D6KG96XG#aeuhajZyxvM0) | v1.0.0 |
@@ -64,8 +64,6 @@
 [Pokémon Infinite Fusion 2: Hoenn Android guide](https://hackmd.io/@PIF-Tech/AndroidGuide)
 
 [Pokémon Sacred Phoenix community thread](https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-phoenix.464873/)
-
-For [Pokémon Deserted 1.4](https://eeveeexpo.com/threads/5344/), extract the base game, then copy the update's Data folder into it and replace the matching files.
 
 For [The Adventures of Ayaka](https://eeveeexpo.com/threads/9534/), Fanmake applies the developer's official Patch 1 during map setup.
 

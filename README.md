@@ -5,13 +5,13 @@
 
 [Pixel Navigator](https://github.com/ChimeraGaming/PixelNavigator) is the separate Android project for ROM and emulator support.
 
-[![Pixel Navigator Release v0.5.3](https://img.shields.io/badge/release-v0.5.3-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
+[![Pixel Navigator Release v0.5.4.1](https://img.shields.io/badge/release-v0.5.4.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/PixelNavigator/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star Pixel Navigator](https://img.shields.io/github/stars/ChimeraGaming/PixelNavigator?style=for-the-badge&logo=github&label=STAR%20PIXEL%20NAVIGATOR&color=f5c542)](https://github.com/ChimeraGaming/PixelNavigator)
 
 # Fanmake Pokémon Maps
 
-[![Release v7.1](https://img.shields.io/badge/release-v7.1-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
+[![Release v8.0](https://img.shields.io/badge/release-v8.0-8957e5?style=for-the-badge&logo=github)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android/releases)
 ![Android](https://img.shields.io/badge/Android-compatible-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Star this repository](https://img.shields.io/github/stars/ChimeraGaming/FanmakePokemonMaps_Android?style=for-the-badge&logo=github&label=STAR%20THIS%20REPOSITORY&color=f5c542)](https://github.com/ChimeraGaming/FanmakePokemonMaps_Android)
 
